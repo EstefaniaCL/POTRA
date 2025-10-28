@@ -21,12 +21,8 @@
           Edición y traducción realizada en <placeName>Medellín.</placeName>Universidad EAFIT.
           </note> 
       </titleStmt>
-        <sourceDesc>
-          <p>Basado en los manuscrito conservado en The Morgan Library and Museum</p>
-        </sourceDesc>
     </fileDesc>
   </teiHeader>
-<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
 
   <text>
     <body>
