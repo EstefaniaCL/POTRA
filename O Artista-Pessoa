@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="pt">O Artista-Fernando Pessoa</title>
+        <title xml:lang="es">El artista-Semillero POTRA</title>
+    
+        <author>
+          <rs type="name" key="OW">Oscar Wilde</rs>
+        </author>
+        <translator>
+          <rs type="name" key="FP">Fernando Pessoa</rs> 
+        </translator>
+
+        <resp>Edición y traducción</resp>
+         <name>Semillero POTRA</name>
+        <resp>Visualización digital</resp>
+         <name>Estefanía Cardona</name> 
+          <note>
+          Edición y traducción realizada en <placeName>Medellín.</placeName>Universidad EAFIT.
+          </note> 
+      </titleStmt>
+        <sourceDesc>
+          <p>Basado en los manuscrito conservado en The Morgan Library and Museum</p>
+        </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
+
+  <text>
+    <body>
+
+      <div type="parallel">
+        <head xml:lang="pt">O ARTISTA-TRADUCCIÓN PESSOA</head>
+        <head xml:lang="es">EL ARTISTA-TRADUCCIÓN SEMILLERO</head>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="pt">Uma tarde veio-lhe á alma o<lb/>
+        desejo de talhar uma imagem do<lb/> 
+        <hi rend="italic">Prazer que dura um momento.</hi> E<lb/>
+        foi mundo fóra á procura de bron-<lb/>
+        ze. Porque não pensava senão por<lb/>
+        bronze.</p>
+        <p xml:lang="es">Una tarde le vino al alma el<lb/>  
+        deseo de tallar una imagen del<lb/>
+        <hi rend="italic">Placer que dura un momento.</hi> Y<lb/>  
+        fue por el mundo fuera en busca de bron-<lb/>  
+        ce. Porque no pensaba sino con<lb/>
+        bronce.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="pt">Mas todo o bronze de todo o mun-<lb/>  
+        do tinha desapparecido, nem em<lb/>  
+        qualquér parte do mundo se encon-<lb/>  
+        trava bronze a não ser o bronze da<lb/>  
+        imagem da <hi rend="italic">Tristeza que sempre dura.</hi></p>
+        <p xml:lang="es">Pero todo el bronce de todo el mun-<lb/>  
+        do había desaparecido, ni en<lb/> 
+        cualquier parte del mundo se encon-<lb/>  
+        traba bronce a no ser el bronce de<lb/>
+        la imagen de la <hi rend="italic">Tristeza que siempre dura.</hi></p>
+      </div>  
+
+      <div type="parallel">
+        <p xml:lang="pt">Ora a esta imagem tinha-a<lb/>  
+        elle proprio, e com sua proprias<lb/>  
+        mãos, talhado, e tinha-a posto<lb/>  
+        sobre o tumulo da unica cousa que<lb/> 
+        amára na vida. No tumulo da<pb n="2"/><lb/> 
+        unica cousa que amára tinha posto<lb/>  
+        esta imagem de seu talhar, para<lb/>  
+        que servisse de typo do amor huma-<lb/>  
+        no que não morre, e de symbolo da<lb/>
+        tristeza humana que sempre dura.<lb/>
+        E em todo o mundo não havia bron-<lb/>
+        ze a não ser o bronze d’esta imagem.<lb/></p>
+        <p xml:lang="es">Entonces a esta imagen la había<lb/>  
+        él mismo, y con sus propias<lb/>  
+        manos, tallado, y la había puesto<lb/> 
+        sobre el túmulo de la única cosa que<lb/> 
+        amara en la vida. En el túmulo de la<pb n="2"/><lb/>  
+        única cosa que amara había puesto<lb/>  
+        esta imagen de su tallar, para<lb/>  
+        que sirviera de tipo del amor huma-<lb/>  
+        no que no muere, y de símbolo de la<lb/>
+        tristeza humana que siempre dura.<lb/>  
+        Y en todo el mundo no había bron-<lb/>
+        ce a no ser el bronce de esta imagen.<lb/></p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="pt">E pegou na imagem que talhára<lb/>  
+        e pôl-a n’uma fornalha e deu-a<lb/>
+        ao fogo.</p>
+        <p xml:lang="es">Y tomó la imagen que tallara<lb/>
+        y la puso en una fragua y la dio<lb/>
+        al fuego.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="pt">E do bronze da imagem da <hi rend="italic">Tris-<lb/> 
+        teza que sempre dura</hi> talhou <add place="above">[↑ elle]</add> uma<lb/> 
+        imagem do <hi rend="italic">Prazer que dura um mo-<lb/>
+        mento.</hi></p>
+        <p xml:lang="es">Y del bronce de la imagen de la <hi rend="italic">Tris-<lb/>
+        teza que siempre dura</hi> talló <add place= "above">[↑ él]</add> una<lb/>
+        imagen del <hi rend="italic">Placer que dura un mo-<lb/>
+        mento.</hi></p>
+      </div>
+
+
+    </body>
+  </text>
+</TEI> 
