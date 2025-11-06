@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en">The doer of good</title>
+        <title xml:lang="es">El que hace el bien</title>
+    
+        <author>
+          <rs type="name" key="OW">Oscar Wilde</rs>
+        </author>
+
+       <respStmt>
+          <resp>Edición y traducción</resp>
+          <name>Semillero POTRA</name>
+        </respStmt>  
+
+        <respStmt>
+         <resp>Visualización digital</resp>
+         <name>Estefanía Cardona</name>
+        </respStmt>  
+
+      </titleStmt>
+        <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
+        <sourceDesc>
+          <p>Basado en los manuscritos digitalizados y conservados en el sitio web de The Morgan Library and Museum.</p>
+        </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
+
+  <text>
+    <body>
+
+      <div type="parallel">
+        <head xml:lang="en">THE DOER OF GOOD-WILDE</head>
+        <head xml:lang="es">EL QUE HACE EL BIEN-TRADUCCIÓN SEMILLERO</head>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">It was night-time and he was  
+        <lb/>alone. [And he saw afar off the 
+        <lb/>walls of a great city and went  
+        <lb/>towards the city.</p>
+        <p xml:lang="es">Era de noche y Él estaba 
+        <lb/>solo. [Y vio a la distancia los  
+        <lb/>muros de una ciudad redonda y caminó  
+        <lb/>hacia esa ciudad.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">[And when he <del>reached the</del> 
+        <lb/>came near he heard within the  
+        <lb/>city <del>laughter</del> <add place="above">[↑ the tread of the feet of joy and the laughter of the mouth of gladness]</add>  
+        <lb/>and the noise of lutes.</p>
+        <p xml:lang="es">[Y cuando <del>llegó al</del> 
+        <lb/>estuvo cerca, Él oyó dentro de la  
+        <lb/>ciudad <del>la risa</del> <add place="above">[↑ el hollar de pies alegres, la risa de una boca gozosa]</add> 
+        <lb/>y el estridente ruido de muchos laúdes</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And he knocked at the gate and <add place="above">[↑ many]</add> 
+        <lb/><del>they</del> <add place="above">[↑ <del>the</del> gate-keepers]</add> opened to him. And when <del>they</del> they  
+        <lb/>had opened to him he entered in.</p>
+        <p xml:lang="es">Entonces tocó a la puerta y <add place="above">[↑ algunos]</add> 
+        <lb/><del>de ellos</del><add place="above">[↑ <del>de los</del> guardias]</add> la abrieron para Él. Y cuando <del>ellos</del> ellos
+        <lb/>la hubieron abierto, él entró.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And he came to a house that 
+        <lb/>was of marble and had fair pillars 
+        <lb/>of marble before it. The pillars 
+        <lb/>were hung with garlands and within 
+        <lb/>and without there were torches of  
+        <lb/>cedar. And he entered the house.</p>
+        <p xml:lang="es">Y entonces Él contempló una casa  
+        <lb/>hecha de mármol con hermosas columnas  
+        <lb/>de mármol a la entrada. Las columnas  
+        <lb/>estaban adornadas con guirnaldas y tanto adentro 
+        <lb/>como afuera había antorchas de 
+        <lb/>cedro. Entonces Él entró a la casa.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And when he had <del>entered  
+        <lb/>the house</del> passed through the  
+        <lb/>hall of chalcedony and the hall of  
+        <lb/>jasper and reached the <add place="above">[↑ long]</add> hall of Feasting,
+        <lb/>he saw lying at the feast a young  
+        <lb/>man whose hair was crowned with  
+        <lb/>red roses and whose lips were red 
+        <lb/>wine.</p>
+        <p xml:lang="es">Y tras <del>entrar en 
+        <lb/>la casa</del> atravesar el 
+        <lb/>salón de calcedonia y el salón de  
+        <lb/>jaspe, Él entró al <add place="above">[↑ gran]</add> salón de los Banquetes  
+        <lb/>y vio tumbado sobre un sillón color púrpura imperial 
+        <lb/>a un hombre coronado con  
+        <lb/>rosas rojas y con los labios rojos de  
+        <lb/>vino.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And he went <del>towards</del> <add place="above">[↑ behind]</add> him and touched  
+        <lb/>him on the shoulder and said to him,  
+        <lb/>"Why do you live like this?"</p>
+        <p xml:lang="es">Y Él <del>fue hacia</del> <add place="above">[↑ se le acercó por la espalda]</add> y, 
+        <lb/>tocándole un hombro, le dijo:
+        <lb/>“¿Por qué vives así?”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And the young man turned round and  
+        <lb/>recognised him, and made answer  
+        <lb/>and said, "But I was a leper once,  
+        <lb/>and you healed me. How else should 
+        <lb/>I live?"</p>
+        <p xml:lang="es">Y el joven se dio la vuelta y  
+        <lb/>lo reconoció, pensó una respuesta
+        <lb/>y dijo: “Pero si yo antes era un leproso  
+        <lb/>y tú me curaste. ¿Cómo más
+        <lb/>debería vivir?”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en"><pb n="2"/>And he passed out of the house  
+        <lb/>and went again into the street.</p>
+        <p xml:lang="es"><pb n="2"/>Y Él salió de la casa  
+        <lb/>y regresó a la calle.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And after a little while he  
+        <lb/>saw one whose face and raiment were
+        <lb/>painted and whose feet <del>were</del> were shod with  
+        <lb/>pearls. And behind her <del>walked</del> <add place="above">[↑ came]</add> slowly as 
+        <lb/>a hunter a young man who wore a
+        <lb/>cloak of two colours. <del>And</del> <add place="above">[↑ Now]</add> the face of the  
+        <lb/>woman was as the fair face of an
+        <lb/>idol, and the eyes of the young man were bright
+        <lb/>with lust.</p>
+        <p xml:lang="es">Y después de un corto tiempo Él  
+        <lb/>vio a una cuyo rostro y vestiduras estaban
+        <lb/>pintadas, y cuyos pies <del>estaban</del> estaban calzados con  
+        <lb/>perlas. Y tras ella <del>caminando</del> <add place="above">[↑ venía]</add>, despacio como  
+        <lb/>un cazador, un joven con una
+        <lb/>capa de dos colores. <del>Pues</del> <add plave="above">[↑ Y]</add> la cara de la  
+        <lb/>mujer era bella como la de un
+        <lb/>ídolo y los ojos del joven brillaban 
+        <lb/>de lujuria.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And He followed swiftly and touched  
+        <lb/>the <add place="margin-left">[← hand of the]</add> young man <del>on the shoulder</del> and said  
+        <lb/>to him "Why do you look <del>in this manner</del> at this woman and in this manner?"</p>
+        <p xml:lang="es">Y entonces Él los siguió velozmente y tocando  
+        <lb/>la <add place="margin-left">[← mano del]</add> joven <del>en el hombro</del> le dijo:
+        <lb/>“¿Por qué miras <del>de esa manera</del> a esta mujer y lo haces de esa manera?”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And the young man turned round and  
+        <lb/>recognised him and said, "But I was blind
+        <lb/>once, and you healed me. At what else  
+        <lb/>should I look".</p>
+        <p xml:lang="es">Y el joven se dio la vuelta, y  
+        <lb/>reconociéndolo le dijo: “Pero si yo antes era ciego  
+        <lb/>y tú me diste la vista. ¿Qué más
+        <lb/>debería mirar?”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And He <del>ran</del> <add place="above">[↑ went]</add> forward and touched 
+        <lb/>the painted raiment of the woman and  
+        <lb/>said to her "Is there no other way in  
+        <lb/>which to walk save the way of sin?"</p>
+        <p xml:lang="es">Y Él <del>corrió</del> <add place="above">[↑ fue]</add> hacia adelante y tocó  
+        <lb/>las ropas pintadas de la mujer y
+        <lb/>le dijo: “¿Acaso no existe  
+        <lb/>otro camino salvo el del pecado?”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And the woman turned round and recognised  
+        <lb/>him and laughed and said "But you forgave
+        <lb/>me my sins, and the way is a pleasant way".</p>
+        <p xml:lang="es">Y la mujer se dio la vuelta y lo reconoció,  
+        <lb/>y riéndose le dijo: “Pero tú perdonaste
+        <lb/>mis pecados, y este camino es placentero”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en"><del>And everywhere that he went in the/is\
+        <lb/>city he found <add place="above">[↑ that]</add> those whom he had]
+        <lb/>healed living for pleasure and for
+        <lb/>pleasure only.</del></p>
+        <p xml:lang="es"><del>Y dondequiera que fuera en la /esta\
+        <lb/>ciudad encontró <add place="above">[↑ que]</add> aquellos a quienes había]
+        <lb/>curado vivían por el placer y solo
+        <lb/>por el placer.</del></p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">[And he passed out of the city.</p>
+        <p xml:lang="es">[Y entonces Él atravesó la ciudad hasta salir de ella.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">[And when he had passed out of 
+        <lb/>the city he saw seated by the  
+        <lb/>roadside a young man who was  
+        <lb/>weeping.</p>
+        <p xml:lang="es">[Y cuando Él salió de 
+        <lb/>la ciudad vio sentado, a un lado de
+        <lb/>la carretera, a un joven que
+        <lb/>lloraba.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And he went towards him and  
+        <lb/>touched <del>him</del> his hair and said to
+        <lb/>him "Why are you weeping?"</p>
+        <p xml:lang="es">Y Él se le acercó y
+        <lb/>tocando <del>a él</del> sus largos rizos
+        <lb/>le dijo, “¿Por qué lloras?".</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And the young man <del>turned</del>
+        <lb/>looked up and recognised him and
+        <lb/><pb n="3"/><del>an</del> made answer, "But I was dead  
+        <lb/>once and you raised me from the 
+        <lb/>dead. It is for that reason that I am 
+        <lb/>weeping".</p>
+        <p xml:lang="es">Y el joven <del>se dio la vuelta</del>
+        <lb/>miró hacia arriba y reconociéndolo
+        <lb/><pb n="3"/>respondió: “Pero si yo antes estaba muerto, 
+        <lb/>y tú me resucitaste.
+        <lb/>¿Qué otra cosa podría hacer sino 
+        <lb/>llorar?”.</p>
+      </div>
+
+    </body>
+  </text>
+</TEI>  
