@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en">The disciple</title>
+        <title xml:lang="es">El discípulo</title>
+    
+        <author>
+          <rs type="name" key="OW">Oscar Wilde</rs>
+        </author>
+
+       <respStmt>
+          <resp>Edición y traducción</resp>
+          <name>Semillero POTRA</name>
+        </respStmt>  
+
+        <respStmt>
+         <resp>Visualización digital</resp>
+         <name>Estefanía Cardona</name>
+        </respStmt>  
+
+      </titleStmt>
+        <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
+        <sourceDesc>
+          <p>Basado en los manuscritos digitalizados y conservados en el sitio web de The Morgan Library and Museum.</p>
+        </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
+
+  <text>
+    <body>
+
+      <div type="parallel">
+        <head xml:lang="en">THE DISCIPLES-WILDE</head>
+        <head xml:lang="es">EL DISCÍPULO-TRADUCCIÓN SEMILLERO</head>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">When <name type="person">Narcissus</name> died the 
+        <lb/>pool of his pleasure changed 
+        <lb/>from a cup of sweet waters 
+        <lb/>into a cup of salt tears. a/A\nd the <name type="group">Oreads</name> <del>went</del> <add place="above">[↑ came]</add> weeping 
+        <lb/>through the woodland<del>s</del>, that they might talk 
+        <lb/>to the <del>And the <name type="group">Oreads</name></del> pool and 
+        <lb/>give it comfort.</p>
+        <p xml:lang="es">Cuando <name type="person">Narciso</name> murió, la 
+        <lb/>fuente de sus placeres dejó de ser 
+        <lb/>un estanque de aguas dulces 
+        <lb/>y se transformó en un estanque de lágrimas saladas, y /Y\ las <name type="group">Oréades</name> <del>fueron</del> <add place="above">[↑ vinieron]</add> sollozando 
+        <lb/>por el bosque para cantarle 
+        <lb/>a la <del>Y las <name type="group">Oréades</name></del>fuente y 
+        <lb/>darle consuelo.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And when they saw that 
+        <lb/>the pool had changed from a cup 
+        <lb/>of sweet waters into a cup of 
+        <lb/>salt tears they <del>called to it</del> 
+        <lb/>loosened the green tresses of their 
+        <lb/>hair and <add place="above">[↑ wept again]</add> <del>called to the pool</del> and 
+        <lb/>said "We do not wonder that 
+        <lb/>you should <del>grieve</del> mourn in this 
+        <lb/>manner for <name type="person">Narcissus</name>, so beautiful 
+        <lb/>was he."</p>
+        <p xml:lang="es">Y cuando vieron que 
+        <lb/>la fuente ya no era un estanque 
+        <lb/>de aguas dulces sino un estanque 
+        <lb/>de lágrimas saladas, <del>llamaron</del>
+        <lb/>soltaron las trenzas de sus verdes 
+        <lb/>cabellos y <add place="above">[↑ lloraron sobre la fuente]</add> <del>llamaron a la fuente</del> 
+        <lb/>diciéndole: “No nos sorprende que 
+        <lb/>guardes <del>duelo</del> este luto 
+        <lb/>por <name type="person">Narciso</name>, tan hermoso 
+        <lb/>era”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">"But was <name type="person">Narcissus</name> beautiful?" 
+        <lb/>said the pool.</p>
+        <p xml:lang="es">“¿Acaso <name type="person">Narciso</name> era hermoso?”, 
+        <lb/>dijo la fuente.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">"Who should know that 
+        <lb/>better than you?" answered the 
+        <lb/><name type="group">Oreads</name>. "Us did he ever pass 
+        <lb/>by, but <del>thee</del> <add place="above">[↑ you]</add> he sought for, and 
+        <lb/>would lie on <del>thy</del> <add place="above">[↑ your]</add> banks and 
+        <lb/>look down at <del>thee</del> <add place="above">[↑ you,]</add> and in the 
+        <lb/>mirror of <del>thy</del> <add place="above">[↑ your]</add> waters he would 
+        <lb/>mirror his own beauty."</p>
+        <p xml:lang="es">“¿Y quién debería saberlo 
+        <lb/>mejor que tú?”, respondieron las 
+        <lb/><name type="group">Oréades</name>. “A nosotras ni siquiera 
+        <lb/>nos miraba, pero a <del>ti</del> <add place="above">[↑ ti]</add> él buscó, y 
+        <lb/>recostado junto a <del>tus</del> <add place="above">[↑ tus]</add> orillas te 
+        <lb/>miraba fijamente, y en el 
+        <lb/>espejo de <del>tus</del> <add place="above">[↑ tus]</add> aguas veía 
+        <lb/>su propia belleza reflejada".</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en"> And the <del>river</del> <add place="above">[↑ pool]</add> answered "But 
+        <lb/>I loved <name type="person">Narcissus</name> because as he 
+        <lb/><pb n="2"/>lay on my banks and looked 
+        <lb/>down at me, in the mirror of 
+        <lb/>his eyes I saw ever my own 
+        <lb/>beauty mirrored."</p>
+        <p xml:lang="es">Y la <del>el estanque</del> <add place="above">[↑ fuente]</add> respondió, “Pero 
+        <lb/>yo amaba a <name type="person">Narciso</name> porque cuando se 
+        <lb/><pb n="2"/>recostaba junto a mis orillas y me miraba 
+        <lb/>fijamente, en el espejo de 
+        <lb/>sus ojos yo veía siempre el reflejo de mi 
+        <lb/>propia belleza”.</p>
+      </div>
+
+      </body>
+  </text>
+</TEI>
