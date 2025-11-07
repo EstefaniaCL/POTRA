@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en">The master</title>
+        <title xml:lang="es">El maestro</title>
+    
+        <author>
+          <rs type="name" key="OW">Oscar Wilde</rs>
+        </author>
+
+       <respStmt>
+          <resp>Edición y traducción</resp>
+          <name>Semillero POTRA</name>
+        </respStmt>  
+
+        <respStmt>
+         <resp>Visualización digital</resp>
+         <name>Estefanía Cardona</name>
+        </respStmt>  
+
+      </titleStmt>
+        <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
+        <sourceDesc>
+          <p>Basado en los manuscritos digitalizados y conservados en el sitio web de The Morgan Library and Museum.</p>
+        </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
+
+  <text>
+    <body>
+
+<div type="parallel">
+        <head xml:lang="en">THE MASTER-WILDE</head>
+        <head xml:lang="es">EL MAESTRO-TRADUCCIÓN SEMILLERO</head>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en"> Now when the <del>great black</del>
+       <lb/>darkness came over the earth
+       <lb/><name type="person">Joseph of Arithmathea</name>, having
+       <lb/>lighted a torch <add place="above">[↑ of pinewood,]</add> passed down <add place="margin-right">[→ from the hill]</add>
+       <lb/>into the valley. For he had business in his own home.</p>
+        <p xml:lang="es">Entonces cuando <del>la gran oscuridad</del>
+       <lb/>las tinieblas se habían ceñido sobre la tierra,
+       <lb/><name type="person">José de Arimatea</name>, encendiendo
+       <lb/>una antorcha <add place="above">[↑ de pino]</add>, bajó <add place="margin-right">[→ de la colina]</add> 
+       <lb/>hasta el valle. Pues tenía asuntos en su propia casa.</p>
+      </div>   
+      
+      <div type="parallel">
+        <p xml:lang="en">And kneeling on the
+      <lb/>flint-stones of the <name type="place">v/V\alley of
+      <lb/>Desolation</name> he saw a young
+      <lb/>man who was naked and weeping. His
+      <lb/>hair was the colour of honey and 
+      <lb/>his body was as a white flower, 
+      <lb/>but he had wounded his body with 
+      <lb/>thorns and on his hair had he 
+      <lb/>set ashes as a crown.</p>
+        <p xml:lang="es">Y arrodillándose sobre 
+      <lb/>los pedernales del <name type="place">v/V\alle de la
+      <lb/>Desolación</name> vio a un muchacho
+      <lb/>desnudo que lloraba. Sus 
+      <lb/>cabellos eran del color de la miel y 
+      <lb/>su cuerpo era como una flor blanca, 
+      <lb/>pero había lacerado su cuerpo con 
+      <lb/>espinas y había coronado sus
+      <lb/>cabellos con cenizas.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And he who had great 
+      <lb/>possessions said to <del>him</del> <add place="above">[↑ the young man]</add> who was 
+      <lb/>naked and weeping, "I do not 
+      <lb/>wonder that your sorrow is so great. 
+      <lb/>For surely He was a just man."</p>
+        <p xml:lang="es">Y él, que era un hombre muy 
+      <lb/>rico, dijo<del>le dijo</del> <add place="above">[↑ al muchacho]</add> que estaba 
+      <lb/>desnudo y que lloraba: “No me 
+      <lb/>sorprende que tu dolor sea tan grande, 
+      <lb/>porque en verdad Él era un hombre justo”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en"><del>But</del> <add place="above">[↑ And]</add> the young man answered, "It 
+      <lb/>is not for him that I am 
+      <lb/>weeping, but for myself. I <del>too</del> also 
+      <lb/>have changed water into wine, and 
+      <lb/>I have healed the leper and given 
+      <lb/>sight to the blind. I have walked 
+      <lb/>upon the <del>waves of the sea</del> <add place="above">[↑ waters,]</add> and 
+      <lb/>from the dwellers in the tombs I 
+      <lb/>have cast out devils. I have 
+      <lb/>fed the hungry <del>on strange</del> <add place="above">[↑ in the desert where there was no]</add> food, 
+      <lb/>and I have raised the dead from 
+      <lb/><pb n="2"/>their narrow houses, and at my 
+      <lb/>bidding a barren fig tree withered 
+      <lb/>away. <del>And yet they have not crucified</del> All things that this 
+      <lb/>man has done I have done 
+      <lb/>also. And yet they have not 
+      <lb/>crucified me. It is for that 
+      <lb/>reason I am weeping.</p>
+        <p xml:lang="es"><del>Pero</del> <add place="above">[↑ Y]</add> el muchacho le respondió: “No 
+      <lb/>es por Él que estoy 
+      <lb/>llorando, sino por mí. Yo <del>también</del> también 
+      <lb/>transformé el agua en vino, 
+      <lb/>yo también curé a los leprosos y les di 
+      <lb/>la vista a los ciegos. Caminé  
+      <lb/>sobre las<del>olas del mar</del> <add place="above">[↑ aguas,]</add> y 
+      <lb/>de los que habitan en las tumbas 
+      <lb/>expulsé demonios. Alimenté 
+      <lb/>a los hambrientos <del>con extraño</del> <add place="above">[↑ en el desierto, donde no había]</add> comida, 
+      <lb/>y levanté a los muertos de 
+      <lb/><pb n="2"/>sus estrechas moradas, y bajo mis 
+      <lb/>órdenes, una higuera estéril se 
+      <lb/>marchitó. <del>Y sin embargo no me han crucificado</del> Todas las cosas que  
+      <lb/>hizo ese hombre yo también las 
+      <lb/>hice. Y, aun así, a mí no 
+      <lb/>me han crucificado". Es esa la
+      <lb/>razón por la que estoy llorando</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">Oscar Wilde</p>
+        <p xml:lang="es">Oscar Wilde</p>
+      </div>
+
+      </body>
+  </text>
+</TEI>
