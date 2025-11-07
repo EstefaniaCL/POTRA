@@ -38,18 +38,18 @@
       </div>
       
       <div type="parallel">
-        <p xml:lang="pt">Quando Narciso morreu, a fonte
+        <p xml:lang="pt">Quando <name type="person">Narciso</name> morreu, a fonte
       <lb/>do seu prazer tornou-se de uma
       <lb/>taça de aguas suaves uma taça
-      <lb/>de lagrimas amargas e as Oréa-
-      <lb/>des vieram chorando pelas flo-
+      <lb/>de lagrimas amargas e as <name type="group">Oréa-
+      <lb/>des</name> vieram chorando pelas flo-
       <lb/>restas para cantar á fonte e
       <lb/>dar-lhe consolação.</p>
-        <p xml:lang="es">Cuando Narciso murió, la fuente
+        <p xml:lang="es">Cuando <name type="person">Narciso</name> murió, la fuente
       <lb/>de su placer se transformó de una
       <lb/>copa de aguas suaves a una copa
-      <lb/>de lágrimas amargas, y las Oré-
-      <lb/>ades vinieron llorando por los bos-
+      <lb/>de lágrimas amargas, y las <name type="group">Oré-
+      <lb/>ades</name> vinieron llorando por los bos-
       <lb/>ques para cantarle a la fuente y
       <lb/>darle consuelo.</p>
       </div>
@@ -62,7 +62,7 @@
       <lb/>as verdes <del>coronas</del> <add>tranças</add> do seu
       <lb/>cabello e fallando á fonte dis-
       <lb/>seram: Não nos admira que cho-
-      <lb/>res assim por Narciso, tão bello
+      <lb/>res assim por <name type="person">Narciso,</name> tão bello
       <lb/>era elle.</p>
         <p xml:lang="es">Y cuando vieron que la fuente se
       <lb/>había <del>cambiado</del> <add>transformado</add> de una
@@ -71,20 +71,20 @@
       <lb/>las verdes <del>coronas</del> <add>trenzas</add> de su
       <lb/>cabello y hablándole a la fuente, dije-
       <lb/>ron: No nos sorprende que llo-
-      <lb/>res así por Narciso, tan bello
+      <lb/>res así por <name type="person">Narciso,</name> tan bello
       <lb/>era él.</p>
       </div>
 
       <div type="parallel">
-        <p xml:lang="pt">‒ Mas Narciso era bello? disse a
+        <p xml:lang="pt">‒ Mas <name type="person">Narciso</name> era bello? disse a
       <lb/>fonte.</p>
-        <p xml:lang="es">‒ ¿Pero Narciso era bello? dijo la
+        <p xml:lang="es">‒ ¿Pero <name type="person">Narciso</name> era bello? dijo la
       <lb/>fuente.</p>
       </div>
 
       <div type="parallel">
         <p xml:lang="pt">‒ Quem melhor que tu pode sa-
-      <lb/>ber? responderam as Oréades. Por
+      <lb/>ber? responderam as <name type="group">Oréades</name>. Por
       <lb/>nós passava elle sempre, deixan-
       <lb/>do-nos, mas a ti buscava-te sem-
       <lb/><pb n="2"/>pre e deitava-se á tua margem
@@ -92,7 +92,7 @@
       <lb/>e no espelho das tuas aguas espe-
       <lb/>lhava elle a sua belleza.</p>
         <p xml:lang="es">‒ ¿Quién mejor que tú puede sa-
-      <lb/>berlo? respondieron las Oréades. Él
+      <lb/>berlo? respondieron las <name type="group">Oréades</name>. Él
       <lb/>siempre pasaba por nosotras, abandonán-
       <lb/>donos, pero a ti te buscaba siem-
       <lb/><pb n="2"/>pre y se tendía a tu orilla
