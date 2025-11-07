@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en">The house of judgment</title>
+        <title xml:lang="es">El tribunal</title>
+    
+        <author>
+          <rs type="name" key="OW">Oscar Wilde</rs>
+        </author>
+
+       <respStmt>
+          <resp>Edición y traducción</resp>
+          <name>Semillero POTRA</name>
+        </respStmt>  
+
+        <respStmt>
+         <resp>Visualización digital</resp>
+         <name>Estefanía Cardona</name>
+        </respStmt>  
+
+      </titleStmt>
+        <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
+        <sourceDesc>
+          <p>Basado en los manuscritos digitalizados y conservados en el sitio web de The Morgan Library and Museum.</p>
+        </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
+
+  <text>
+    <body>
+
+        <div type="parallel">
+        <head xml:lang="en">THE HOUSE OF JUDGMENT-WILDE</head>
+        <head xml:lang="es">EL TRIBUNAL-TRADUCCIÓN SEMILLERO</head>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And there was silence in the <name type="place">House of
+        <lb/>Judgment</name>, and the m/M\an came <add place="above">[↑ naked]</add> before <name type="person">God</name>.</p></div>
+        <p xml:lang="es">Y hubo silencio en el <name type="place">Tribunal</name>
+        <lb/>y el h/H\ombre se presentó <add place="above">[↑ Desnudo]</add> ante <name type="person">Dios</name>.</p>
+      
+
+      <div type="parallel">
+        <p xml:lang="en">[And <name type="person">God</name> opened the Book of the
+        <lb/>Life of the Man, and saw what
+        <lb/>was written therein.</p></div>
+        <p xml:lang="es">[Y <name type="person">Dios</name> abrió el Libro de la
+        <lb/>Vida del Hombre, y vio lo que  
+        <lb/>estaba escrito adentro.</p>
+      
+
+      <div type="parallel">
+        <p xml:lang="en">And <name type="person">God</name> said to the Man, "thy  
+        <lb/>life has/th\ been evil, and thou hast
+        <lb/>shown cruelty to those who were
+        <lb/>in need of succour, and to those
+        <lb/>who lacked help thou has't been
+        <lb/>bitter and hard of heart. The poor
+        <lb/>called to thee, and thou dids't not  
+        <lb/><del>listen</del> <add place="above">[↑ hearken]</add>, and thine ears were closed
+        <lb/>to the cry of the afflicted. The
+        <lb/>gold that I gave thee thou dids't
+        <lb/>hoard for thy pleasures, and the
+        <lb/>hungry went hungry from <del>thine</del> thy  
+        <lb/><del>house</del> <add place="above">[↑ courts]</add> of ivory, and thou dids't beat
+        <lb/><del>away drive</del> the beggar from <add place="above">[↑ the cool shadow of]</add> thy gates.
+        <lb/>The inheritance of the fatherless
+        <lb/>thou dids't take unto thyself, and
+        <lb/><add place="margin-left">[← thou]</add> dids't send thy foxes into the  
+        <lb/>vineyard of thy neighbour's field.
+        <lb/>Thou dids't take the bread of the
+        <lb/>children and give it to the dogs
+        <lb/>to eat, and the lepers who lived
+        <lb/>in the marshes, <del>thou</del> and were at
+        <lb/>peace and praised me, thou dids't
+        <lb/>drive forth on to the highways.
+        <lb/><del>so that they were slain</del> Pity was
+        <lb/><pb n="2"/>not in thee, nor mercy of any kind.
+        <lb/>Thou dids't trample <del>on</del> <add place="above">[↑ down]</add> the weak with
+        <lb/>feet of iron, and on mine earth,
+        <lb/>out of which I made thee, thou
+        <lb/>dids't spill <del>the</del> <add place="above">[↑ innocent]</add> blood." <del>of the
+        <lb/>innocent."</del></p>
+        <p xml:lang="es">Y <name type="person">Dios</name> le dijo al Hombre: “Tu  
+        <lb/>vida ha sido malvada, y tú te has
+        <lb/>mostrado cruel ante los  
+        <lb/>que pedían socorro, y ante aquellos
+        <lb/>que requerían ayuda has sido
+        <lb/>recio y duro de corazón. Lo pobres
+        <lb/>te llamaron y tú no
+        <lb/><del>escuchaste</del> <add place="above">[↑ atendiste]</add>, tus oídos se cerraron
+        <lb/>a los gritos de Mis afligidos. El
+        <lb/>oro que te di lo
+        <lb/>atesoraste para tus placeres, y los
+        <lb/>hambrientos se quedaron con hambre por <del>tu</del> tus  
+        <lb/><del>casa</del> <add place="above">[↑ cortes]</add> de marfil, y echaste
+        <lb/><del>a golpes ahuyentaste</del> al mendigo de <add place="above">[↑ la fría sombra de]</add> sus puertas.
+        <lb/>Usurpaste la herencia
+        <lb/>de los huérfanos y  
+        <lb/><add place="margin-left">[← tú]</add>soltaste zorros sobre la
+        <lb/>viña en el campo de tu prójimo.
+        <lb/>Tú robaste el pan a los
+        <lb/>niños y lo diste de comer a los
+        <lb/>perros, y a Mis leprosos, que vivían  
+        <lb/>en paz en los pantanos <del>tú</del> 
+        <lb/>y Me alababan, tú los
+        <lb/>arrastraste por los caminos.
+        <lb/><del>Para que fueran asesinados</del> La compasión no  
+        <lb/><pb n="2"/>Vivía en ti, ni algún tipo de misericordia,
+        <lb/>aplastaste a los débiles con
+        <lb/>suelas de hierro, y sobre Mi tierra,
+        <lb/>de la que Yo a ti te hice,
+        <lb/>derramaste la sangre <del>del</del> <add place="above">[↑ inocente]</add>”.
+        <lb/><del>de los inocentes”.</del></p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en"><pb n="3"/>And the Man <del>answered</del> <add place="above">[↑ made answer]</add> and said,  
+        <lb/>"Even so did I."</p>
+        <p xml:lang="es"><pb n="3"/>Y el Hombre <del>respondió</del> <add place="above">[↑ respondiendo]</add> dijo:  
+        <lb/>“Eso hice”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And again <name type="person">God</name> opened the Book
+        <lb/>of the Life of the Man, and saw
+        <lb/>what was written therein.</p>
+        <p xml:lang="es">Y de nuevo <name type="person">Dios</name> abrió el Libro  
+        <lb/>de la Vida del Hombre y vio  
+        <lb/>lo que estaba escrito adentro.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And God said to the Man, "Thy  
+        <lb/>life has/th\ been evil, as thou has't
+        <lb/><del>wrought</del> <add place="above">[↑ lain with]</add> the seven sins. The walls
+        <lb/>of thy chamber were painted with  
+        <lb/>images, and from the bed of thine
+        <lb/>abominations thou dids't rise <add place="above">[↑ up]</add> to
+        <lb/>the sound of flutes. Thou dids't
+        <lb/><del>raise</del> <add place="above">[↑ build]</add> seven altars to the sins I  
+        <lb/>have suffer<del>r</del>ed, and dids't eat of
+        <lb/>the thing<del>s</del> that may not be eaten.
+        <lb/>The cups of thy feast were <del>full of</del> <add place="above">[↑ red
+        <lb/>with]</add> the wine of sin, and in the
+        <lb/>dishes there was poisonous honey,  
+        <lb/>and the purple of thy raiment  
+        <lb/>was broidered with the three signs
+        <lb/>of shame. Thine idols were neither
+        <lb/>of gold nor of silver, which endure,
+        <lb/>but of flesh that dieth. Thou
+        <lb/>dids't stain their hair with <del>perfumes</del> <add place="above">[↑ colours]</add>,
+        <lb/>a⟨n⟩d <del>put</del> <add place="above">[↑ set]</add> <del>strange flowers into</del> <add place="above">[↑ set pomegranates in]</add> their
+        <lb/>hands. Thou dids't stain their
+        <lb/>feet with perfumes, and <del>set</del> spread
+        <lb/>carpets before them. With antimony
+        <lb/>thou dids't stain their eyelids, and
+        <lb/>their bodies thou dids't smear
+        <lb/>with myrrh. Thou dids't bow
+        <lb/>thyself to the ground before them,
+        <lb/><pb n="4"/>and in groves and on high places
+        <lb/>thou didst worship them. In thine
+        <lb/>idolatry thou dids't bow thyself
+        <lb/>to the ground, and the thrones
+        <lb/>of thine idols were set in the
+        <lb/>sun. Thou dids't show to the
+        <lb/>sun thy shame and to the moon  
+        <lb/>thy madness."</p>
+        <p xml:lang="es">Y Dios le dijo al Hombre: “Tu  
+        <lb/>vida ha sido malvada, como si le hubieras
+        <lb/><del>servido a</del> <add place="above">[↑ te hubieras acostado con]</add> los siete pecados. Las paredes  
+        <lb/>de tus aposentos estaban pintadas con
+        <lb/>imágenes, y del lecho de tus
+        <lb/>abominaciones te levantaste al
+        <lb/>compás de flautas. <del>Erigiste</del>
+        <lb/><add place="above">[↑ Construiste]</add> siete altares a los pecados que yo
+        <lb/>he tolerado, y has comido  
+        <lb/>aquello que no se puede comer.
+        <lb/>Las copas de tu festín eran <del>estaban llenas de</del> <add place="above">[↑ rojas
+        <lb/>por]</add> el vino del pecado, y en
+        <lb/>los platos había miel venenosa,
+        <lb/>y el púrpura de tus vestidos
+        <lb/>fue bordado con las tres cruces
+        <lb/>de la vergüenza. Tus ídolos no eran
+        <lb/>de oro ni plata duraderos,
+        <lb/>sino de carne que muere. Tú
+        <lb/>manchaste sus cabellos con <del>perfumes</del> <add place="above">[↑ colores]</add>,
+        <lb/>⟨y⟩ <del>colocaste flores aberrantes sobre</del> <add place="above">[↑ pusiste granadas en]</add> sus
+        <lb/>manos. Tú manchaste sus
+        <lb/>pies con azafrán y <del>pusiste</del> extendiste
+        <lb/>alfombras ante ellos. Con antimonio
+        <lb/>manchaste sus párpados y
+        <lb/>sus cuerpos untaste
+        <lb/>de mirra. Tú te postraste
+        <lb/>en el suelo ante ellos,
+        <lb/><pb n="4"/>y en arboledas y en lugares elevados
+        <lb/>los alabaste. En tu
+        <lb/>idolatría tú te postraste  
+        <lb/>en el suelo ante ellos, y los tronos
+        <lb/>de tus ídolos fueron puestos al
+        <lb/>sol. Tú mostraste al  
+        <lb/>sol tu vergüenza y a la luna  
+        <lb/>tu locura”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en"><pb n="5"/>And the Man <del>answered</del> <add place="above">[↑ made answer]</add> and said,
+        <lb/>"Even so did I."</p>
+        <p xml:lang="es"><pb n="5"/>Y el Hombre <del>respondió</del> <add place="above">[↑ respondiendo]</add> dijo:  
+        <lb/>“Eso hice”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And a third time <name type="person">God</name> opened  
+        <lb/>the Book of the Life of the Man,
+        <lb/>and saw what was written
+        <lb/>therein.</p>
+        <p xml:lang="es">Y por tercera vez <name type="person">Dios</name> abrió  
+        <lb/>el Libro de la Vida del Hombre,  
+        <lb/>y vio lo que estaba escrito  
+        <lb/>adentro.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And <name type="person">God</name> said to the Man,  
+        <lb/>"Evil hath been thy life, and  
+        <lb/>with evil dids't thou <del>repay</del> <add place="above">[↑ requite]</add> good,
+        <lb/>and with wrongdoing <del>dids't thou  
+        <lb/>answer</del> kindness. The hands that
+        <lb/>fed thee thou dids't wound, and
+        <lb/>the breasts that <del>suckled thee</del> <add place="above">[↑ gave thee suck]</add> thou
+        <lb/>dids't despise. With lying lips thou
+        <lb/>dids't kiss the mouth of truth, and
+        <lb/>with a false tongue thou dids't
+        <lb/><del>answer</del> <add place="above">[↑ call on]</add> w/W\isdom. He who <del>brought</del> <add place="above">[↑ came]</add>
+        <lb/>to thee <add place="above">[↑ with]</add> a gift went away
+        <lb/>empty, and those who hid thee
+        <lb/>in their tents <add place="above">[↑ at night]</add> thou dids't betray <add place="above">[↑ before dawn.]</add>
+        <lb/>Thine enemy who spared thee thou
+        <lb/>dids't <del>slay</del> <add place="above">[↑ snare]</add> in an ambush, and
+        <lb/>thy friend who walked with
+        <lb/>thee thou dids't sell for a  
+        <lb/>price, and to those who brought
+        <lb/>thee Love thou dids't ever give
+        <lb/>Lust in <del>answer</del> <add place="above">[↑ payment]</add>."</p>
+        <p xml:lang="es">Y <name type="person">Dios</name> le dijo al Hombre:  
+        <lb/>“El mal ha sido tu vida, y
+        <lb/>con mal has <del>pagado</del> <add place="above">[↑ devuelto]</add> el bien
+        <lb/>y con fechorías <del>les has
+        <lb/>atendido</del> la bondad. Heriste las manos
+        <lb/>que te alimentaron y  
+        <lb/>despreciaste el pecho que <del>amamantaste</del> <add place="above">[↑ te amamantó].</add>
+        <lb/>Con labios embusteros
+        <lb/>besaste la boca de la verdad, y
+        <lb/>con una lengua falsa <del>respondiste</del>
+        <lb/><add place="above">[↑ llamaste]</add> a la s/S\abiduría. El que <del>trajo</del> <add place="above">[↑ vino]</add>
+        <lb/>a ti a <add place="above">[↑ con]</add> agua se fue
+        <lb/>sediento, y a los forajidos que te escondieron
+        <lb/>en sus tiendas <add place="above">[↑ durante la noche]</add>, los traicionaste <add place="above">[↑ antes del amanecer]</add>.
+        <lb/>Al enemigo que te perdonó la vida
+        <lb/>le <del>asesinaste en</del> <add place="above">[↑ tendiste]</add> una emboscada, y
+        <lb/>al amigo que te acompañó
+        <lb/>lo vendiste por unas
+        <lb/>monedas, y a aquellos que te dieron
+        <lb/>amor les <del>respondiste</del> <add place="above">[↑ correspondiste]</add>
+        <lb/>siempre con lujuria”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And the Man <del>answered</del> <add place="above">[↑ made answer]</add> and
+        <lb/>said, "Even so did I."</p>
+        <p xml:lang="es">Y el Hombre <del>respondió</del> <add place="above">[↑ respondiendo]</add> dijo:
+        <lb/>“Eso hice”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en"><pb n="6"/>And <name type="person">God</name> <add place="above">[↑ closed the Book of the Life of the Man, and]</add> said, "Surely I shall
+        <lb/>send thee to <name type="place">Hell</name>. Even unto <name type="place">Hell</name>
+        <lb/>shall I send thee."</p>
+        <p xml:lang="es"><pb n="6"/>Y <name type="person">Dios</name> <add place="above">[↑ cerró el Libro de la Vida del Hombre, y]</add> dijo: “Está claro que te
+        <lb/>enviaré al <name type="place">infierno</name>. Justo al <name type="place">infierno</name>
+        <lb/>te enviaré”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And the Man <del>answered and said</del> <add place="above">[↑ cried out]</add>,
+        <lb/>"Thou cans't not."</p>
+        <p xml:lang="es">Y el hombre <del>respondió y dijo</del> <add place="above">[↑ gritó]</add>:
+        <lb/>“No puedes”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And God said to the Man,  
+        <lb/>"Wherefore can I not send thee
+        <lb/>to <name type="place">Hell</name>, and for what reason?"</p>
+        <p xml:lang="es">Y Dios le dijo al Hombre:  
+        <lb/>“¿Cómo que Yo no puedo enviarte
+        <lb/>al <name type="place">infierno</name>?, ¿por qué razón?”</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en"><add place="margin-left">[← And the Man made answer, and said,]</add> "Because I have always lived
+        <lb/>in it." answered the Man.</p>
+        <p xml:lang="es"><add place="margin-left">[← Y el Hombre respondiendo dijo]</add> “Porque en el <name type="place">infierno</name> he vivido siempre”,
+        <lb/>respondió el Hombre.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And there was silence in the  
+        <lb/><name type="place">House of j/J\udgment</name>.</p>
+        <p xml:lang="es">Y hubo silencio en el  
+        <lb/><name type="place">t/T\ribunal</name>.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And after a space <name type="person">God</name> spake,  
+        <lb/>and said to the Man, "Seeing that
+        <lb/>I may not send thee to <name type="place">Hell</name>,
+        <lb/>surely I shall send thee to  
+        <lb/><name type="place">Heaven</name>. <del>Shall</del> Even unto <name type="place">Heaven</name> shall
+        <lb/>I send thee."</p>
+        <p xml:lang="es">Y después de un momento habló <name type="person">Dios</name>,  
+        <lb/>y le dijo al Hombre, “Ya que
+        <lb/>no puedo enviarte al <name type="place">infierno</name>,  
+        <lb/>está claro que te enviaré al  
+        <lb/><name type="place">cielo</name>. Justo al <name type="place">cielo</name>
+        <lb/>te enviaré”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And the Man <del>answered and said</del> <add place="above">[↑ cried out]</add>,
+        <lb/>"Thou cans't not."</p>
+        <p xml:lang="es">Y el hombre <del>respondió y dijo</del> <add place="above">[↑ gritó]:</add>
+        <lb/>“No puedes”.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And <name type="person">God</name> said to the Man,  
+        <lb/>"Wherefore can I not send thee to
+        <lb/><name type="place">Heaven</name>, and for what reason?"</p>
+        <p xml:lang="es">Y <name type="person">Dios</name> le dijo al Hombre:
+        <lb/>“¿Cómo que Yo no puedo enviarte a el  
+        <lb/><name type="place">cielo</name>?, ¿por qué razón?”</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">Parag. <add place="below">[↓ And the Man made answer and said,]</add> "Because never, and in no place,
+        <lb/>have I been able to imagine it."  
+        <lb/><del>answered the Man.</del></p>
+        <p xml:lang="es">Parag. <add place="below">[↓ Y el Hombre respondiendo dijo]</add> “Porque nunca, ni en ningún lugar,  
+        <lb/>he podido imaginarlo”,  
+        <lb/><del>contestó el hombre.</del></p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">And there was silence in the
+        <lb/><name type="place">House of Judgment</name>.</p>
+        <p xml:lang="es">Y hubo silencio en el
+        <lb/><name type="place">Tribunal</name>.</p>
+      </div>
+
+      <div type="parallel">
+        <p xml:lang="en">Oscar Wilde.</p>
+        <p xml:lang="es">Oscar Wilde.</p>
+      </div>
+
+    </body>
+  </text>
+</TEI>
