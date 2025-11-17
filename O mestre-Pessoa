@@ -21,7 +21,7 @@
         <respStmt>
          <resp>Visualización digital</resp>
          <name>Estefanía Cardona</name>
-        </respStmt>  
+        </respStmt> 
 
       </titleStmt>
         <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
@@ -32,12 +32,13 @@
   <text>
     <body>
 
-      <div type="parallel">
+      <div>
         <head xml:lang="pt">O MESTRE-TRADUCCIÓN PESSOA</head>
         <head xml:lang="es">EL MAESTRO-TRADUCCIÓN SEMILLERO</head>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">Ora quando as sombras cahiam
         <lb/>sobre a terra, <name type="person">José de Arimathéa</name>,
         <lb/>tendo accendido um archote de
@@ -51,8 +52,9 @@
         <lb/>lle. Porque tenía de que encargarse en
         <lb/>su casa.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E ajoelhando nos seixos do <name type="place">Valle
         <lb/>da Desolação</name>, viu um jovem que
         <lb/>estava nú e chorando. O seu
@@ -69,55 +71,58 @@
         <lb/>flor, pero rasgara su cuerpo
         <lb/>con espinos y sobre su cabello
         <lb/>echara cenizas como una corona.</p>
-    </div>
+      </div>
+      <divGen type="alignment"/>
 
-    <div type="parallel">
-       <p xml:lang="pt">E o que tinha grandes rique-
-       <lb/>zas disse ao jovem que estava nú
-       <lb/>e chorando: Não me admira que
-       <lb/>a tua magoa seja tão grande,
-       <lb/>porque com certeza Elle era um
-       <lb/>justo.</p>
-       <p xml:lang="es">Y el que poseía grandes rique-
-       <lb/>zas le dijo al joven que estaba desnudo
-       <lb/>y llorando: No me sorprende que
-       <lb/>tu pena sea tan grande,
-       <lb/>porque ciertamente Él era un
-       <lb/>justo.</p>
-    </div>
+      <div>
+        <p xml:lang="pt">E o que tinha grandes rique-
+        <lb/>zas disse ao jovem que estava nú
+        <lb/>e chorando: Não me admira que
+        <lb/>a tua magoa seja tão grande,
+        <lb/>porque com certeza Elle era um
+        <lb/>justo.</p>
+        <p xml:lang="es">Y el que poseía grandes rique-
+        <lb/>zas le dijo al joven que estaba desnudo
+        <lb/>y llorando: No me sorprende que
+        <lb/>tu pena sea tan grande,
+        <lb/>porque ciertamente Él era un
+        <lb/>justo.</p>
+      </div>
+      <divGen type="alignment"/>
 
-    <div type="parallel">
-      <p xml:lang="pt">E o jovem respondeu: Não é
-      <lb/>por Elle que eu choro mas por
-      <lb/><pb n="2"/>mim. Eu tambem mudei agua 
-      <lb/>em vinho, e curei o leproso, e dei
-      <lb/>vista ao cego. Andei sobre as a-
-      <lb/>guas e dos que moram nos tumu-
-      <lb/>los mandei sahir os demonios. Ali-
-      <lb/>mentei os famintos no deserto
-      <lb/>onde não havia alimento, e le-
-      <lb/>vantei os mortos das suas casas
-      <lb/>estreitas, e deante de uma gran-
-      <lb/>de multidão uma figueira esteril
-      <lb/>seccou. Tudo o que este homem
-      <lb/>fez, fiz eu tambem. E a mim
-      <lb/>não me crucificaram.</p>
-      <p xml:lang="es">Y el joven le respondió: No es
-      <lb/>por Él que lloro sino por
-      <lb/><pb n="2"/>mí. Yo también cambié el agua 
-      <lb/>por vino, y curé al leproso, y le di
-      <lb/>la vista al ciego. Anduve sobre las a-
-      <lb/>guas y de los que habitan en los sepul-
-      <lb/>cros mandé salir a los demonios. Ali-
-      <lb/>menté a los hambrientos en el desierto
-      <lb/>donde no había alimento, y le-
-      <lb/>vanté a los muertos de sus estrechas
-      <lb/>casas, y ante una gran
-      <lb/>multitud una higuera estéril
-      <lb/>se secó. Todo lo que este hombre
-      <lb/>hizo, yo lo hice también. Y a mí
-      <lb/>no me crucificaron.</p>
-    </div>
+      <div>
+        <p xml:lang="pt">E o jovem respondeu: Não é
+        <lb/>por Elle que eu choro mas por
+        <lb/><pb n="2"/>mim. Eu tambem mudei agua 
+        <lb/>em vinho, e curei o leproso, e dei
+        <lb/>vista ao cego. Andei sobre as a-
+        <lb/>guas e dos que moram nos tumu-
+        <lb/>los mandei sahir os demonios. Ali-
+        <lb/>mentei os famintos no deserto
+        <lb/>onde não havia alimento, e le-
+        <lb/>vantei os mortos das suas casas
+        <lb/>estreitas, e deante de uma gran-
+        <lb/>de multidão uma figueira esteril
+        <lb/>seccou. Tudo o que este homem
+        <lb/>fez, fiz eu tambem. E a mim
+        <lb/>não me crucificaram.</p>
+        <p xml:lang="es">Y el joven le respondió: No es
+        <lb/>por Él que lloro sino por
+        <lb/><pb n="2"/>mí. Yo también cambié el agua 
+        <lb/>por vino, y curé al leproso, y le di
+        <lb/>la vista al ciego. Anduve sobre las a-
+        <lb/>guas y de los que habitan en los sepul-
+        <lb/>cros mandé salir a los demonios. Ali-
+        <lb/>menté a los hambrientos en el desierto
+        <lb/>donde no había alimento, y le-
+        <lb/>vanté a los muertos de sus estrechas
+        <lb/>casas, y ante una gran
+        <lb/>multitud una higuera estéril
+        <lb/>se secó. Todo lo que este hombre
+        <lb/>hizo, yo lo hice también. Y a mí
+        <lb/>no me crucificaron.</p>
+      </div>
+      <divGen type="alignment"/>
 
     </body>
   </text>
