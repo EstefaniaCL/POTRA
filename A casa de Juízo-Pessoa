@@ -32,24 +32,27 @@
   <text>
     <body>
 
-      <div type="parallel">
+      <div>
         <head xml:lang="pt">A CASA DE JUÍZO-TRADUCCIÓN PESSOA</head>
         <head xml:lang="es">EL TRIBUNAL-TRADUCCIÓN SEMILLERO</head>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E havia silencio na Casa de Juizo e o Homem apareceu
         <lb/>nú ante <name type="person">Deus</name>.</p>
         <p xml:lang="es">Y había silencio en El Tribunal y el hombre apareció
         <lb/>desnudo ante <name type="person">Dios</name>.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E <name type="person">Deus</name> abriu o Livro da Vida do Homem.</p>
         <p xml:lang="es">Y <name type="person">Dios</name> abrió el Libro de la Vida del Hombre.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E <name type="person">Deus</name> disse ao Homem: “A tua vida tem sido <add place="above">[↑ foi]</add> má,
         <lb/>e mostraste crueldade aos que precisavam <del>auxilio</del> <add place="above">[↑ socorro]</add> e /aos/ <add place="above">[↑ para os]</add>
         <lb/>que precisavam auxilio foste amargo e duro de coração.
@@ -75,18 +78,21 @@
         <lb/>y sobre Mi tierra, de la que te hice, derramaste
         <lb/>sangre inocente".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E o Homem respondeu e disse: “Tudo isso eu fiz”.</p>
         <p xml:lang="es">Y el hombre respondió y dijo: "Todo eso hice".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E outra vez <name type="person">Deus</name> abriu o Livro da Vida do Homem.</p>
         <p xml:lang="es">Y <name type="person">Dios</name> abrió otra vez el Libro de la Vida del Hombre.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E <name type="person">Deus</name> disse ao Homem: “A tua vida foi má,
         <lb/>e a Belleza que te /a/mostrei buscaste e *ao Bom que
         <lb/>eu escondi passaste por elle desprezando-o. Os muros
@@ -122,18 +128,21 @@
         <lb/>estaban puestos al sol. Mostraste al sol tu
         <lb/>vergüenza y a la luna tu locura".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E o Homem respondeu e disse: “Tudo isso eu fiz”.</p>
         <p xml:lang="es">Y el hombre respondió y dijo: "Todo eso hice yo".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E <del>uma</del> <add place="above">[↑ por pela]</add> terceira vez <name type="person">Deus</name> abriu o Livro da Vida do Homem.</p>
         <p xml:lang="es">Y <del>una</del> <add place="above">[↑ por por la]</add> tercera vez <name type="person">Dios</name> abrió el Libro de la Vida del Hombre.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E <name type="person">Deus</name> disse ao Homem: “Má /fora/ <add place="above">[↑ /foi/]</add> a tua vida, e com
         <lb/>o mal pagaste o bom e com maldade a doçura.
         <lb/>Ás mãos que te alimentaram feriste e aos seios que
@@ -157,15 +166,17 @@
         <lb/>te trajeron Amor les diste a cambio
         <lb/>Lujuria".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E o Homem respondeu e disse: “Tudo isso eu
         <lb/>fiz."</p>
         <p xml:lang="es">Y el hombre respondió y dijo: "Todo eso hice
         <lb/>yo".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E <name type="person">Deus</name> fechou o Livro da Vida do Homem e disse:
         <lb/>"Por certo que te mandarei para o <name type="place">Inferno</name>. Mesmo
         <lb/>para o <name type="place">Inferno</name> te mandarei”.</p>
@@ -173,32 +184,37 @@
         <lb/>"Ciertamente he de mandarte al <name type="place">Infierno</name>. Justo
         <lb/>al <name type="place">Infierno</name> te mandaré".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E o Homem gritou: “Não podes”.</p>
         <p xml:lang="es">Y el hombre gritó: "No puedes".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E <name type="person">Deus</name> disse ao Homem: “Por que não te posso eu
         <lb/>mandar para o <name type="place">Inferno</name>, e por que razão?”</p>
         <p xml:lang="es">Y <name type="person">Dios</name> le dijo al hombre: "¿Por qué no te puedo yo
         <lb/>mandar al <name type="place">Infierno</name>, y por qué motivo?"</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt"><pb n="3"/>“Porque no <name type="place">Inferno</name> tenho eu sempre vivido” respondeu o
         <lb/>Homem.</p>
         <p xml:lang="es"><pb n="3"/>"Porque en el <name type="place">Infierno</name> he vivido yo siempre ", respondió el
         <lb/>Hombre.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E houve silencio na Casa de Juizo.</p>
         <p xml:lang="es">Y hubo silencio en el Tribunal.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E depois de um tempo <name type="person">Deus</name> fallou e disse ao Homem:
         <lb/>“Visto que não te posso mandar para o <name type="place">Inferno</name>,
         <lb/>por certo que te mandarei para o <name type="place">Céu</name>. Mesmo para
@@ -208,30 +224,35 @@
         <lb/>he de mandarte al <name type="place">Cielo</name>. Justo al <name type="place">Cielo</name>
         <lb/>te mandaré".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E o Homem clamou: “Não podes”.</p>
         <p xml:lang="es">Y el Hombre clamó: "No puedes".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E <name type="person">Deus</name> disse ao Homem: “Por que não te poderei
         <lb/>eu mandar para o <name type="place">Céu</name>, e por que razão?”</p>
         <p xml:lang="es">Y <name type="person">Dios</name> le dijo al Hombre: "¿Por qué no te podré
         <lb/>yo mandar al <name type="place">Cielo</name>, y por qué motivo?"</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">“Porque nunca e em nenhum lugar pude
         <lb/>imaginal-o” respondeu o Homem.</p>
         <p xml:lang="es">"Porque nunca y en ningún lugar pude
         <lb/>imaginarlo", respondió el Hombre.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E houve silencio na Casa de Juizo.</p>
         <p xml:lang="es">Y hubo silencio en el Tribunal.</p>
       </div>
+      <divGen type="alignment"/>
 
     </body>
   </text>
