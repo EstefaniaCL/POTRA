@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -27,17 +27,18 @@
         </sourceDesc>
     </fileDesc>
   </teiHeader>
-<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
+<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/15"></facsimile>
 
   <text>
     <body>
-
-      <div type="parallel">
+      
+      <div>
         <head xml:lang="en">THE DOER OF GOOD-WILDE</head>
         <head xml:lang="es">EL QUE HACE EL BIEN-TRADUCCIÓN SEMILLERO</head>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">It was night-time and he was  
         <lb/>alone. [And he saw afar off the 
         <lb/>walls of a great city and went  
@@ -47,8 +48,9 @@
         <lb/>muros de una ciudad redonda y caminó  
         <lb/>hacia esa ciudad.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">[And when he <del>reached the</del> 
         <lb/>came near he heard within the  
         <lb/>city <del>laughter</del> <add place="above">[↑ the tread of the feet of joy and the laughter of the mouth of gladness]</add>  
@@ -58,8 +60,9 @@
         <lb/>ciudad <del>la risa</del> <add place="above">[↑ el hollar de pies alegres, la risa de una boca gozosa]</add> 
         <lb/>y el estridente ruido de muchos laúdes</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And he knocked at the gate and <add place="above">[↑ many]</add> 
         <lb/><del>they</del> <add place="above">[↑ <del>the</del> gate-keepers]</add> opened to him. And when <del>they</del> they  
         <lb/>had opened to him he entered in.</p>
@@ -67,8 +70,9 @@
         <lb/><del>de ellos</del><add place="above">[↑ <del>de los</del> guardias]</add> la abrieron para Él. Y cuando <del>ellos</del> ellos
         <lb/>la hubieron abierto, él entró.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And he came to a house that 
         <lb/>was of marble and had fair pillars 
         <lb/>of marble before it. The pillars 
@@ -82,8 +86,9 @@
         <lb/>como afuera había antorchas de 
         <lb/>cedro. Entonces Él entró a la casa.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And when he had <del>entered  
         <lb/>the house</del> passed through the  
         <lb/>hall of chalcedony and the hall of  
@@ -101,8 +106,9 @@
         <lb/>rosas rojas y con los labios rojos de  
         <lb/>vino.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And he went <del>towards</del> <add place="above">[↑ behind]</add> him and touched  
         <lb/>him on the shoulder and said to him,  
         <lb/>"Why do you live like this?"</p>
@@ -110,8 +116,9 @@
         <lb/>tocándole un hombro, le dijo:
         <lb/>“¿Por qué vives así?”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And the young man turned round and  
         <lb/>recognised him, and made answer  
         <lb/>and said, "But I was a leper once,  
@@ -123,15 +130,17 @@
         <lb/>y tú me curaste. ¿Cómo más
         <lb/>debería vivir?”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en"><pb n="2"/>And he passed out of the house  
         <lb/>and went again into the street.</p>
         <p xml:lang="es"><pb n="2"/>Y Él salió de la casa  
         <lb/>y regresó a la calle.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And after a little while he  
         <lb/>saw one whose face and raiment were
         <lb/>painted and whose feet <del>were</del> were shod with  
@@ -151,8 +160,9 @@
         <lb/>ídolo y los ojos del joven brillaban 
         <lb/>de lujuria.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And He followed swiftly and touched  
         <lb/>the <add place="margin-left">[← hand of the]</add> young man <del>on the shoulder</del> and said  
         <lb/>to him "Why do you look <del>in this manner</del> at this woman and in this manner?"</p>
@@ -160,8 +170,9 @@
         <lb/>la <add place="margin-left">[← mano del]</add> joven <del>en el hombro</del> le dijo:
         <lb/>“¿Por qué miras <del>de esa manera</del> a esta mujer y lo haces de esa manera?”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And the young man turned round and  
         <lb/>recognised him and said, "But I was blind
         <lb/>once, and you healed me. At what else  
@@ -171,8 +182,9 @@
         <lb/>y tú me diste la vista. ¿Qué más
         <lb/>debería mirar?”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And He <del>ran</del> <add place="above">[↑ went]</add> forward and touched 
         <lb/>the painted raiment of the woman and  
         <lb/>said to her "Is there no other way in  
@@ -182,8 +194,9 @@
         <lb/>le dijo: “¿Acaso no existe  
         <lb/>otro camino salvo el del pecado?”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And the woman turned round and recognised  
         <lb/>him and laughed and said "But you forgave
         <lb/>me my sins, and the way is a pleasant way".</p>
@@ -191,8 +204,9 @@
         <lb/>y riéndose le dijo: “Pero tú perdonaste
         <lb/>mis pecados, y este camino es placentero”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en"><del>And everywhere that he went in the/is\
         <lb/>city he found <add place="above">[↑ that]</add> those whom he had]
         <lb/>healed living for pleasure and for
@@ -202,13 +216,15 @@
         <lb/>curado vivían por el placer y solo
         <lb/>por el placer.</del></p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">[And he passed out of the city.</p>
         <p xml:lang="es">[Y entonces Él atravesó la ciudad hasta salir de ella.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">[And when he had passed out of 
         <lb/>the city he saw seated by the  
         <lb/>roadside a young man who was  
@@ -218,8 +234,9 @@
         <lb/>la carretera, a un joven que
         <lb/>lloraba.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And he went towards him and  
         <lb/>touched <del>him</del> his hair and said to
         <lb/>him "Why are you weeping?"</p>
@@ -227,8 +244,9 @@
         <lb/>tocando <del>a él</del> sus largos rizos
         <lb/>le dijo, “¿Por qué lloras?".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And the young man <del>turned</del>
         <lb/>looked up and recognised him and
         <lb/><pb n="3"/><del>an</del> made answer, "But I was dead  
@@ -242,6 +260,7 @@
         <lb/>¿Qué otra cosa podría hacer sino 
         <lb/>llorar?”.</p>
       </div>
+      <divGen type="alignment"/>
 
     </body>
   </text>
