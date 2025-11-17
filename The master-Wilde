@@ -27,17 +27,18 @@
         </sourceDesc>
     </fileDesc>
   </teiHeader>
-<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
+<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/20"></facsimile>
 
   <text>
     <body>
 
-<div type="parallel">
+      <div>
         <head xml:lang="en">THE MASTER-WILDE</head>
         <head xml:lang="es">EL MAESTRO-TRADUCCIÓN SEMILLERO</head>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en"> Now when the <del>great black</del>
        <lb/>darkness came over the earth
        <lb/><name type="person">Joseph of Arithmathea</name>, having
@@ -48,9 +49,10 @@
        <lb/><name type="person">José de Arimatea</name>, encendiendo
        <lb/>una antorcha <add place="above">[↑ de pino]</add>, bajó <add place="margin-right">[→ de la colina]</add> 
        <lb/>hasta el valle. Pues tenía asuntos en su propia casa.</p>
-      </div>   
+      </div>
+      <divGen type="alignment"/>   
       
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And kneeling on the
       <lb/>flint-stones of the <name type="place">v/V\alley of
       <lb/>Desolation</name> he saw a young
@@ -70,8 +72,9 @@
       <lb/>espinas y había coronado sus
       <lb/>cabellos con cenizas.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And he who had great 
       <lb/>possessions said to <del>him</del> <add place="above">[↑ the young man]</add> who was 
       <lb/>naked and weeping, "I do not 
@@ -83,8 +86,9 @@
       <lb/>sorprende que tu dolor sea tan grande, 
       <lb/>porque en verdad Él era un hombre justo”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en"><del>But</del> <add place="above">[↑ And]</add> the young man answered, "It 
       <lb/>is not for him that I am 
       <lb/>weeping, but for myself. I <del>too</del> also 
@@ -122,11 +126,13 @@
       <lb/>me han crucificado". Es esa la
       <lb/>razón por la que estoy llorando</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">Oscar Wilde</p>
         <p xml:lang="es">Oscar Wilde</p>
       </div>
+      <divGen type="alignment"/>
 
       </body>
   </text>
