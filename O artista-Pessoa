@@ -32,12 +32,13 @@
   <text>
     <body>
 
-      <div type="parallel">
+      <div>
         <head xml:lang="pt">O ARTISTA-TRADUCCIÓN PESSOA</head>
         <head xml:lang="es">EL ARTISTA-TRADUCCIÓN SEMILLERO</head>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">Uma tarde veio-lhe á alma o
         <lb/>desejo de talhar uma imagem do
         <lb/><hi rend="italic">Prazer que dura um momento.</hi> E
@@ -51,8 +52,9 @@
         <lb/>ce. Porque no pensaba sino con
         <lb/>bronce.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">Mas todo o bronze de todo o mun- 
         <lb/>do tinha desapparecido, nem em  
         <lb/>qualquér parte do mundo se encon-  
@@ -63,9 +65,10 @@
         <lb/>cualquier parte del mundo se encon-  
         <lb/>traba bronce a no ser el bronce de
         <lb/>la imagen de la <hi rend="italic">Tristeza que siempre dura.</hi></p>
-      </div>  
+      </div>
+      <divGen type="alignment"/>  
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">Ora a esta imagem tinha-a 
         <lb/>elle proprio, e com sua proprias
         <lb/>mãos, talhado, e tinha-a posto  
@@ -91,8 +94,9 @@
         <lb/>Y en todo el mundo no había bron-
         <lb/>ce a no ser el bronce de esta imagen.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E pegou na imagem que talhára 
         <lb/>e pôl-a n’uma fornalha e deu-a
         <lb/>ao fogo.</p>
@@ -100,8 +104,9 @@
         <lb/>y la puso en una fragua y la dio
         <lb/>al fuego.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E do bronze da imagem da <hi rend="italic">Tris- 
         <lb/>teza que sempre dura</hi> talhou <add place="above">[↑ elle]</add> uma
         <lb/>imagem do <hi rend="italic">Prazer que dura um mo-
@@ -111,8 +116,8 @@
         <lb/>imagen del <hi rend="italic">Placer que dura un mo-
         <lb/>mento.</hi></p>
       </div>
-
+      <divGen type="alignment"/>
 
     </body>
   </text>
-</TEI>  
+</TEI>
