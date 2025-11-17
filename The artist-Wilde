@@ -27,38 +27,41 @@
         </sourceDesc>
     </fileDesc>
   </teiHeader>
-<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
+  <facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
 
   <text>
     <body>
 
-      <div type="parallel">
+      <div>
         <head xml:lang="en">THE ARTIST-WILDE</head>
         <head xml:lang="es">EL ARTISTA-TRADUCCIÓN SEMILLERO</head>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
-        <p xml:lang="en"><del>He could only think in
+      <div>
+       <p xml:lang="en"><del>He could only think in
         <lb/> bronze.</del></p>
-        <p xml:lang="es"><lb/><del>Solo podía pensar en
+       <p xml:lang="es"><del>Solo podía pensar en
         <lb/>bronce.</del></p>
       </div>
+      <divGen type="alignment"/>
 
-     <div type="parallel">
-      <p xml:lang="en"><del>And</del> <add place="above">[↑ One morning]</add> there came <del>to him [↑ upon]</del> <add place="above">[↑ into his soul]</add> <del>the [↑ a]</del> <add place="above">[↑ the]</add> desire 
+      <div>
+       <p xml:lang="en"><del>And</del> <add place="above">[↑ One morning]</add> there came <del>to him [↑ upon]</del> <add place="above">[↑ into his soul]</add> <del>the [↑ a]</del> <add place="above">[↑ the]</add> desire 
         <lb/><del>idea</del> to fashion <del>an [↑ the]</del> <add place="above">[↑ an]</add> image of <hi rend="italic">The  
         <lb/>Pleasure that <del>lives</del> <add place="above">[↑ abideth]</add> for a Moment.</hi>
         <lb/>And he went forth <add place="below">[↓ into the world]</add> to look for 
         <lb/>bronze. For he could <add place="below">[↓ only think in bronze.]</add></p>
-      <p xml:lang="es"><del>Y</del> <add place="above">[↑ Una mañana]</add> entró <del>a él [↑ sobre]</del> <add place="above">[↑ a su alma]</add> <del>el [↑ un]</del> <add place="above">[↑ el]</add> deseo  
+       <p xml:lang="es"><del>Y</del> <add place="above">[↑ Una mañana]</add> entró <del>a él [↑ sobre]</del> <add place="above">[↑ a su alma]</add> <del>el [↑ un]</del> <add place="above">[↑ el]</add> deseo  
         <lb/><del>idea</del> de moldear <del>una [↑ la]</del> <add place="above">[↑ una]</add> imagen del  
         <lb/><hi rend="italic">Placer que <del>vive</del> <add place="above">[↑ se fija]</add> por un Instante.</hi>  
         <lb/>Y salió <add place="below">[↓ por el mundo]</add> buscando  
-        b<lb/>ronce. Pues <add place="below">[↓ solo en bronce podía pensar.]</add></p>
+        <lb/>bronce. Pues <add place="below">[↓ solo en bronce podía pensar.]</add></p>
       </div>
+      <divGen type="alignment"/>
 
-    <div type="parallel">
-      <p xml:lang="en">But all the bronze <del>in</del> <add place="above">[↑ of]</add> the whole  
+      <div>
+       <p xml:lang="en">But all the bronze <del>in</del> <add place="above">[↑ of]</add> the whole  
         <lb/>world had disappeared, nor anywhere  
         <lb/>in the <add place="above">[↑ whole]</add> world was there any bronze 
         <lb/>to be found, save only the bronze 
@@ -67,7 +70,7 @@
         <lb/>fashioned with his own hands for
         <lb/>the tomb of the woman he had  
         <lb/>most loved in life.</del></p>
-      <p xml:lang="es">Pero todo el bronce <del>en</del> <add place="above">[↑ del]</add> mundo  
+       <p xml:lang="es">Pero todo el bronce <del>en</del> <add place="above">[↑ del]</add> mundo  
         <lb/>entero había desaparecido, y en ningún lugar  
         <lb/>en el <add place="above">[↑ entero]</add> mundo había ya cualquier bronce  
         <lb/>a encontrar, salvo apenas el bronce
@@ -77,59 +80,63 @@
         <lb/>la tumba de la mujer que había 
         <lb/>amado más en la vida.</del></p>
       </div>
+      <divGen type="alignment"/>
 
-    <div type="parallel">
-      <p xml:lang="en">Now this <del>[↑ bronze]</del> <add place="above">[↑ great]</add>image he had himself,  
-       <lb/>and with his own hands, fashioned,
-       <lb/>and had set <add place="above">[↑ it]</add> on the tomb of the
-       <lb/>one thing he had loved in life.
-       <lb/>On the tomb of the dead <del>thing woman</del> <add place="above">[↑ thing]</add>  
-       <lb/>he had <add place="above">[↑ most]</add> loved had he set this 
-       <lb/>image of his own fashioning, that
-       <lb/>it might serve as a sign of the  
-       <lb/>Love <add place="above">[↑ of man]</add> that dieth not and <del>[↑ as]</del> a symbol  
-       <lb/>of the Sorrow [↑ of <del>the</del> man] that endureth for ever.
-       <lb/>And in the whole world there was
-       <lb/>no other bronze save the bronze of
-       <lb/>this image.</p>
-      <p xml:lang="es">Y esta <del>[↑ bronce]</del> <add place="above">[↑ gran]</add> imagen él mismo había,  
-       <lb/>y con sus propias manos, moldeado,
-       <lb/>y <add place="above">[↑ la]</add> había puesto sobre la tumba de la
-       <lb/>única cosa que había amado en la vida.  
-       <lb/>Sobre la tumba de <del>la mujer</del> <add place="above">[↑ aquello]</add> 
-       <lb/>que había amado <add place="above">[↑ más]</add> él había puesto esta  
-       <lb/>imagen que él mismo había moldeado, para que
-       <lb/>sirviera como testigo del
-       <lb/>amor <add place="above">[↑ del hombre]</add>, que no muere, y <del>[↑ como]</del> un símbolo 
-       <lb/>del dolor [↑ del <del>un</del> hombre] que dura para siempre.
-       <lb/>Y en todo el mundo no existía
-       <lb/>más bronce salvo el de
-       <lb/>esta imagen.</p>
+      <div>
+       <p xml:lang="en">Now this <del>[↑ bronze]</del> <add place="above">[↑ great]</add>image he had himself,  
+        <lb/>and with his own hands, fashioned,
+        <lb/>and had set <add place="above">[↑ it]</add> on the tomb of the
+        <lb/>one thing he had loved in life.
+        <lb/>On the tomb of the dead <del>thing woman</del> <add place="above">[↑ thing]</add>  
+        <lb/>he had <add place="above">[↑ most]</add> loved had he set this 
+        <lb/>image of his own fashioning, that
+        <lb/>it might serve as a sign of the  
+        <lb/>Love <add place="above">[↑ of man]</add> that dieth not and <del>[↑ as]</del> a symbol  
+        <lb/>of the Sorrow [↑ of <del>the</del> man] that endureth for ever.
+        <lb/>And in the whole world there was
+        <lb/>no other bronze save the bronze of
+        <lb/>this image.</p>
+       <p xml:lang="es">Y esta <del>[↑ bronce]</del> <add place="above">[↑ gran]</add> imagen él mismo había,  
+        <lb/>y con sus propias manos, moldeado,
+        <lb/>y <add place="above">[↑ la]</add> había puesto sobre la tumba de la
+        <lb/>única cosa que había amado en la vida.  
+        <lb/>Sobre la tumba de <del>la mujer</del> <add place="above">[↑ aquello]</add> 
+        <lb/>que había amado <add place="above">[↑ más]</add> él había puesto esta  
+        <lb/>imagen que él mismo había moldeado, para que
+        <lb/>sirviera como testigo del
+        <lb/>amor <add place="above">[↑ del hombre]</add>, que no muere, y <del>[↑ como]</del> un símbolo 
+        <lb/>del dolor [↑ del <del>un</del> hombre] que dura para siempre.
+        <lb/>Y en todo el mundo no existía
+        <lb/>más bronce salvo el de
+        <lb/>esta imagen.</p>
       </div>
+      <divGen type="alignment"/>
     
-    <div type="parallel">
-      <p xml:lang="en">So he took the <del>[↑ bronze]</del> image he
-       <lb/>had fashioned and <del>gave it to the<pb n="2"/>
-       <lb/>fire and</del> set it in a great
-       <lb/>furnace, and gave it to the fire.</p>
-      <p xml:lang="es">Entonces tomó el <del>[↑ bronce]</del> la imagen que
-       <lb/>había moldeado y <del>se la dio al<pb n="2"/>
-       <lb/>fuego y</del> la puso en un gran
-       <lb/>horno, y lo ofreció al fuego.</p>
-    </div> 
+      <div>
+       <p xml:lang="en">So he took the <del>[↑ bronze]</del> image he
+        <lb/>had fashioned and <del>gave it to the<pb n="2"/>
+        <lb/>fire and</del> set it in a great
+        <lb/>furnace, and gave it to the fire.</p>
+       <p xml:lang="es">Entonces tomó el <del>[↑ bronce]</del> la imagen que
+        <lb/>había moldeado y <del>se la dio al<pb n="2"/>
+        <lb/>fuego y</del> la puso en un gran
+        <lb/>horno, y lo ofreció al fuego.</p>
+      </div>
+      <divGen type="alignment"/> 
     
-    <div type="parallel">
-      <p xml:lang="en">And out of the bronze of the
-       <lb/>image of <hi rend="italic">The Sorrow that endureth  
-       <lb/>for Ever</hi> he fashioned the image
-       <lb/>of <hi rend="italic">The Pleasure that abideth for
-       <lb/>a Moment.</hi> For <add place="below">[↓ He could only think in bronze.]</add></p>
-      <p xml:lang="es">Y del bronce de la
-       <lb/>imagen de <hi rend="italic">La tristeza que dura
-       <lb/>para siempre</hi> él moldeó la imagen
-       <lb/>del <hi rend="italic">Placer que se fija en  
-       <lb/>un Instante.</hi> Porque <add place="above">[↓ solo podía pensar en bronce.]</add></p>
-    </div>
+      <div>
+       <p xml:lang="en">And out of the bronze of the
+        <lb/>image of <hi rend="italic">The Sorrow that endureth  
+        <lb/>for Ever</hi> he fashioned the image
+        <lb/>of <hi rend="italic">The Pleasure that abideth for
+        <lb/>a Moment.</hi> For <add place="below">[↓ He could only think in bronze.]</add></p>
+       <p xml:lang="es">Y del bronce de la
+        <lb/>imagen de <hi rend="italic">La tristeza que dura
+        <lb/>para siempre</hi> él moldeó la imagen
+        <lb/>del <hi rend="italic">Placer que se fija en  
+        <lb/>un Instante.</hi> Porque <add place="above">[↓ solo podía pensar en bronce.]</add></p>
+      </div>
+      <divGen type="alignment"/>
       
     </body>
   </text>
