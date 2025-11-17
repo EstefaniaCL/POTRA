@@ -30,14 +30,15 @@
   </teiHeader>
 
   <text>
-    <body>
+    <body>  
 
-    <div type="parallel">
+    <div>
         <head xml:lang="pt">O DISCÍPULO-TRADUCCIÓN PESSOA</head>
         <head xml:lang="es">EL DISCÍPULO-TRADUCCIÓN SEMILLERO</head>
       </div>
+      <divGen type="alignment"/>
       
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">Quando <name type="person">Narciso</name> morreu, a fonte
       <lb/>do seu prazer tornou-se de uma
       <lb/>taça de aguas suaves uma taça
@@ -53,8 +54,9 @@
       <lb/>ques para cantarle a la fuente y
       <lb/>darle consuelo.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E quando viram que a fonte se
       <lb/>tinha <del>mudado</del> <add> tornado</add> de uma
       <lb/>taça de aguas suaves uma taça
@@ -74,15 +76,17 @@
       <lb/>res así por <name type="person">Narciso,</name> tan bello
       <lb/>era él.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">‒ Mas <name type="person">Narciso</name> era bello? disse a
       <lb/>fonte.</p>
         <p xml:lang="es">‒ ¿Pero <name type="person">Narciso</name> era bello? dijo la
       <lb/>fuente.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">‒ Quem melhor que tu pode sa-
       <lb/>ber? responderam as <name type="group">Oréades</name>. Por
       <lb/>nós passava elle sempre, deixan-
@@ -100,22 +104,24 @@
       <lb/>y en el espejo de tus aguas refle-
       <lb/>jaba su belleza.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="pt">E a fonte respondeu: Mas eu
-      <lb/>amava Narciso porque, quando,
+      <lb/>amava <name type="person">Narciso</name> porque, quando,
       <lb/>deitado á minha margem, se
       <lb/>debruçava fitando-me, no espe-
       <lb/>lho dos seus olhos eu via sempre a
       <lb/>minha propria belleza reflectida.</p>
         <p xml:lang="es">Y la fuente respondió: Pero yo
-      <lb/>amaba a Narciso porque, cuando,
+      <lb/>amaba a <name type="person">Narciso</name> porque, cuando,
       <lb/>tendido en mi orilla, se
       <lb/>inclinaba mirándome fijamente, en el espe-
       <lb/>jo de sus ojos yo veía siempre
       <lb/>mi propia belleza reflejada.</p>
       </div>
+      <divGen type="alignment"/>
       
-       </body>
+    </body>
   </text>
 </TEI> 
