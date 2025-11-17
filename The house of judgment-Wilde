@@ -32,20 +32,21 @@
   <text>
     <body>
 
-        <div type="parallel">
+        <div>
         <head xml:lang="en">THE HOUSE OF JUDGMENT-WILDE</head>
         <head xml:lang="es">EL TRIBUNAL-TRADUCCIÓN SEMILLERO</head>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And there was silence in the <name type="place">House of
         <lb/>Judgment</name>, and the m/M\an came <add place="above">[↑ naked]</add> before <name type="person">God</name>.</p>
         <p xml:lang="es">Y hubo silencio en el <name type="place">Tribunal</name>
         <lb/>y el h/H\ombre se presentó <add place="above">[↑ Desnudo]</add> ante <name type="person">Dios</name>.</p>
       </div>  
-      
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">[And <name type="person">God</name> opened the Book of the
         <lb/>Life of the Man, and saw what
         <lb/>was written therein.</p>
@@ -53,9 +54,9 @@
         <lb/>Vida del Hombre, y vio lo que  
         <lb/>estaba escrito adentro.</p>
       </div>
-      
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And <name type="person">God</name> said to the Man, "thy  
         <lb/>life has/th\ been evil, and thou hast
         <lb/>shown cruelty to those who were
@@ -119,15 +120,17 @@
         <lb/>derramaste la sangre <del>del</del> <add place="above">[↑ inocente]</add>”.
         <lb/><del>de los inocentes”.</del></p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en"><pb n="3"/>And the Man <del>answered</del> <add place="above">[↑ made answer]</add> and said,  
         <lb/>"Even so did I."</p>
         <p xml:lang="es"><pb n="3"/>Y el Hombre <del>respondió</del> <add place="above">[↑ respondiendo]</add> dijo:  
         <lb/>“Eso hice”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And again <name type="person">God</name> opened the Book
         <lb/>of the Life of the Man, and saw
         <lb/>what was written therein.</p>
@@ -135,8 +138,9 @@
         <lb/>de la Vida del Hombre y vio  
         <lb/>lo que estaba escrito adentro.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And God said to the Man, "Thy  
         <lb/>life has/th\ been evil, as thou has't
         <lb/><del>wrought</del> <add place="above">[↑ lain with]</add> the seven sins. The walls
@@ -208,15 +212,17 @@
         <lb/>sol tu vergüenza y a la luna  
         <lb/>tu locura”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en"><pb n="5"/>And the Man <del>answered</del> <add place="above">[↑ made answer]</add> and said,
         <lb/>"Even so did I."</p>
         <p xml:lang="es"><pb n="5"/>Y el Hombre <del>respondió</del> <add place="above">[↑ respondiendo]</add> dijo:  
         <lb/>“Eso hice”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And a third time <name type="person">God</name> opened  
         <lb/>the Book of the Life of the Man,
         <lb/>and saw what was written
@@ -226,8 +232,9 @@
         <lb/>y vio lo que estaba escrito  
         <lb/>adentro.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And <name type="person">God</name> said to the Man,  
         <lb/>"Evil hath been thy life, and  
         <lb/>with evil dids't thou <del>repay</del> <add place="above">[↑ requite]</add> good,
@@ -271,15 +278,17 @@
         <lb/>amor les <del>respondiste</del> <add place="above">[↑ correspondiste]</add>
         <lb/>siempre con lujuria”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And the Man <del>answered</del> <add place="above">[↑ made answer]</add> and
         <lb/>said, "Even so did I."</p>
         <p xml:lang="es">Y el Hombre <del>respondió</del> <add place="above">[↑ respondiendo]</add> dijo:
         <lb/>“Eso hice”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en"><pb n="6"/>And <name type="person">God</name> <add place="above">[↑ closed the Book of the Life of the Man, and]</add> said, "Surely I shall
         <lb/>send thee to <name type="place">Hell</name>. Even unto <name type="place">Hell</name>
         <lb/>shall I send thee."</p>
@@ -287,15 +296,17 @@
         <lb/>enviaré al <name type="place">infierno</name>. Justo al <name type="place">infierno</name>
         <lb/>te enviaré”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And the Man <del>answered and said</del> <add place="above">[↑ cried out]</add>,
         <lb/>"Thou cans't not."</p>
         <p xml:lang="es">Y el hombre <del>respondió y dijo</del> <add place="above">[↑ gritó]</add>:
         <lb/>“No puedes”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And God said to the Man,  
         <lb/>"Wherefore can I not send thee
         <lb/>to <name type="place">Hell</name>, and for what reason?"</p>
@@ -303,22 +314,25 @@
         <lb/>“¿Cómo que Yo no puedo enviarte
         <lb/>al <name type="place">infierno</name>?, ¿por qué razón?”</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en"><add place="margin-left">[← And the Man made answer, and said,]</add> "Because I have always lived
         <lb/>in it." answered the Man.</p>
         <p xml:lang="es"><add place="margin-left">[← Y el Hombre respondiendo dijo]</add> “Porque en el <name type="place">infierno</name> he vivido siempre”,
         <lb/>respondió el Hombre.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And there was silence in the  
         <lb/><name type="place">House of j/J\udgment</name>.</p>
         <p xml:lang="es">Y hubo silencio en el  
         <lb/><name type="place">t/T\ribunal</name>.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And after a space <name type="person">God</name> spake,  
         <lb/>and said to the Man, "Seeing that
         <lb/>I may not send thee to <name type="place">Hell</name>,
@@ -332,15 +346,17 @@
         <lb/><name type="place">cielo</name>. Justo al <name type="place">cielo</name>
         <lb/>te enviaré”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And the Man <del>answered and said</del> <add place="above">[↑ cried out]</add>,
         <lb/>"Thou cans't not."</p>
         <p xml:lang="es">Y el hombre <del>respondió y dijo</del> <add place="above">[↑ gritó]:</add>
         <lb/>“No puedes”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And <name type="person">God</name> said to the Man,  
         <lb/>"Wherefore can I not send thee to
         <lb/><name type="place">Heaven</name>, and for what reason?"</p>
@@ -348,8 +364,9 @@
         <lb/>“¿Cómo que Yo no puedo enviarte a el  
         <lb/><name type="place">cielo</name>?, ¿por qué razón?”</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">Parag. <add place="below">[↓ And the Man made answer and said,]</add> "Because never, and in no place,
         <lb/>have I been able to imagine it."  
         <lb/><del>answered the Man.</del></p>
@@ -357,18 +374,21 @@
         <lb/>he podido imaginarlo”,  
         <lb/><del>contestó el hombre.</del></p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And there was silence in the
         <lb/><name type="place">House of Judgment</name>.</p>
         <p xml:lang="es">Y hubo silencio en el
         <lb/><name type="place">Tribunal</name>.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">Oscar Wilde.</p>
         <p xml:lang="es">Oscar Wilde.</p>
       </div>
+      <divGen type="alignment"/>
 
     </body>
   </text>
