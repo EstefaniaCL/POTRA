@@ -27,17 +27,18 @@
         </sourceDesc>
     </fileDesc>
   </teiHeader>
-<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
+<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/18"></facsimile>
 
   <text>
     <body>
 
-      <div type="parallel">
+      <div>
         <head xml:lang="en">THE DISCIPLE-WILDE</head>
         <head xml:lang="es">EL DISCÍPULO-TRADUCCIÓN SEMILLERO</head>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">When <name type="person">Narcissus</name> died the 
         <lb/>pool of his pleasure changed 
         <lb/>from a cup of sweet waters 
@@ -53,8 +54,9 @@
         <lb/>a la <del>Y las <name type="group">Oréades</name></del>fuente y 
         <lb/>darle consuelo.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">And when they saw that 
         <lb/>the pool had changed from a cup 
         <lb/>of sweet waters into a cup of 
@@ -76,15 +78,17 @@
         <lb/>por <name type="person">Narciso</name>, tan hermoso 
         <lb/>era”.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">"But was <name type="person">Narcissus</name> beautiful?" 
         <lb/>said the pool.</p>
         <p xml:lang="es">“¿Acaso <name type="person">Narciso</name> era hermoso?”, 
         <lb/>dijo la fuente.</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en">"Who should know that 
         <lb/>better than you?" answered the 
         <lb/><name type="group">Oreads</name>. "Us did he ever pass 
@@ -102,8 +106,9 @@
         <lb/>espejo de <del>tus</del> <add place="above">[↑ tus]</add> aguas veía 
         <lb/>su propia belleza reflejada".</p>
       </div>
+      <divGen type="alignment"/>
 
-      <div type="parallel">
+      <div>
         <p xml:lang="en"> And the <del>river</del> <add place="above">[↑ pool]</add> answered "But 
         <lb/>I loved <name type="person">Narcissus</name> because as he 
         <lb/><pb n="2"/>lay on my banks and looked 
@@ -117,6 +122,7 @@
         <lb/>sus ojos yo veía siempre el reflejo de mi 
         <lb/>propia belleza”.</p>
       </div>
+      <divGen type="alignment"/>
 
       </body>
   </text>
