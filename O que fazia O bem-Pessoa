@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="pt">O que fazia O bem</title>
+        <title xml:lang="es">El que hacía el bien</title>
+    
+        <author>
+          <rs type="name" key="OW">Oscar Wilde</rs>
+        </author>
+
+        <respStmt>
+          <resp>Traducción al portugués</resp>
+          <name>Fernando Pessoa</name>
+        </respStmt>
+
+       <respStmt>
+          <resp>Edición y traducción al español</resp>
+          <name>Semillero POTRA</name>
+        </respStmt>  
+
+        <respStmt>
+         <resp>Visualización digital</resp>
+         <name>Estefanía Cardona</name>
+        </respStmt>  
+
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
+      </publicationStmt> 
+
+      <sourceDesc>
+          <p>Basado en los archivos conservados en la Biblioteca Nacional de Portugal.</p>
+      </sourceDesc>
+
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <div>
+        <head xml:lang="pt">O QUE FAZIA O BEM-TRADUCCIÓN PESSOA</head>
+        <head xml:lang="es">EL QUE HACÍA EL BIEN-TRADUCCIÓN SEMILLERO</head>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">Era noite e Elle estava só.</p>
+        <p xml:lang="es">Era noche y Él estaba solo.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E Elle viu de longe os muros de uma cidade 
+        <lb/>e avançou para a cidade.</p>
+        <p xml:lang="es">Y Él vio de lejos los muros de una ciudad 
+        <lb/>y avanzó hacia la ciudad.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E quando Se approximou ouviu dentro da cidade o 
+        <lb/>pisar dos pés da alegria, e o riso da boca do prazer, 
+        <lb/>e o som <gap reason="blank"/>□ de muitos <gap reason="blank"/>□. E bateu á porta e 
+        <lb/>algums dos porteiros abriram-a.</p>
+        <p xml:lang="es">Y cuando Se aproximó oyó dentro de la ciudad el 
+        <lb/>pisar de los pies de la alegría, y la risa de la boca del placer, 
+        <lb/>y el sonido <gap reason="blank"/>□ de muchos <gap reason="blank"/>□. Y golpeó la puerta y 
+        <lb/>algunos de los porteros la abrieron.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E Elle viu uma casa que era de marmore e 
+        <lb/>tinha adeante bellas columnas de marmore. Das 
+        <lb/>columnas pendiam grinaldas e dentro e fóra havia 
+        <lb/>archotes de cedro. E Elle entrou.</p>
+        <p xml:lang="es">Y Él vio una casa que era de mármol y 
+        <lb/>tenía al frente bellas columnas de mármol. De las 
+        <lb/>columnas colgaban guirnaldas y dentro y fuera había 
+        <lb/>teas de cedro. Y Él entró. </p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E quando tinha atravessado a sala de 
+        <lb/>Calcedonia e a sala de Jaspe e chegado á grande sala 
+        <lb/>do banquete, viu deitado n’um leito de purpura 
+        <lb/>um cujo cabello estava coroado de rozas e cujos labios 
+        <lb/>estavam roxos de vinho.</p>
+        <p xml:lang="es">Y cuando había atravesado la sala de 
+        <lb/>Calcedonia y la sala de Jaspe y llegado a la gran sala 
+        <lb/>del banquete, vio recostado en un lecho de púrpura 
+        <lb/>uno cuyos cabellos estaban coronados de rosas y cuyos labios 
+        <lb/>estaban morados de vino.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E Elle passou por traz e bateu-lhe no hombro 
+        <lb/>e disse-lhe “Porque vives tu assim?”</p>
+        <p xml:lang="es">Y Él pasó por detrás de él y le golpeó el hombro 
+        <lb/>y le dijo: “¿Por qué vives tú así?”.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E o jovem voltou-se e reconheceu-O, e, respondiu, 
+        <lb/>assim: “Mas <add place="above">[↑ em tempos]</add> eu era leproso e tu curaste-me. Como 
+        <lb/>hei de eu vivir senão assim?”</p>
+        <p xml:lang="es">Y el joven se volteó y Lo reconoció, y respondió, 
+        <lb/>así: “Pero <add place="above">[↑ antes]</add> yo era leproso y tu me curaste. ¿Cómo 
+        <lb/>he de vivir yo si no así?”.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E Elle sahiu da casa e tornou outra vez para 
+        <lb/>a rua.</p>
+        <p xml:lang="es">Y Él salió de la casa y regresó otra vez a 
+        <lb/>la calle.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E pouco depois viu Elle uma mulher cuja face e vestes 
+        <lb/>eram pintadas e cujos pés calçados de perolas. 
+        <lb/><pb n="2"/>E atraz d’ella vinha, lento como um caçador, um 
+        <lb/>jovem com uma capa de duas côres. Ora a face 
+        <lb/>da mulher era como a face bella de um idolo 
+        <lb/>e os olhos do jovem tinham o brilho da luxuria.</p>
+        <p xml:lang="es">Y poco después Él vio una mujer cuyo rostro y vestidos 
+        <lb/>estaban pintadas y cuyos pies calzados de perlas. 
+        <lb/><pb n="2"/>Y tras ella venía, lento como un cazador, un 
+        <lb/>joven con una capa de dos colores. Pues el rostro 
+        <lb/>de la mujer era como el bello rostro de un ídolo 
+        <lb/>y los ojos del joven tenían el brillo de la lujuria.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E Elle seguiu depressa e toucando na mão do jovem 
+        <lb/>disse-lhe: “Porque fitas tu essa mulher d’esse 
+        <lb/>modo?”</p>
+        <p xml:lang="es">Y Él siguió deprisa y tocando la mano del joven 
+        <lb/>le dijo: “¿Por qué clavas tu mirada en esa mujer de ese modo?”.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E o jovem, voltando-se e reconhecendo-O, disse “Mas 
+        <lb/>eu em tempos era cego, e Tu deste-me a vista. 
+        <lb/>Para que olharia eu senão para isto?</p>
+        <p xml:lang="es">Y el joven, dándose vuelta y reconociéndolo, dijo: “Pero 
+        <lb/>yo antes era ciego, y Tú me diste la vista. ¿Qué miraría yo si no eso?”.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E Elle avançou, correndo, e tocou nas vestes pintadas 
+        <lb/>da mulher e disse-lhe: “Não ha outro caminho 
+        <lb/>que seguir senão o caminho do peccado?”</p>
+        <p xml:lang="es">Y Él avanzó, corriendo, y tocó los vestidos pintados 
+        <lb/>de la mujer y dijo: “No hay otro camino 
+        <lb/>a seguir si no el camino del pecado?”.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E a mulher voltando-se e reconhecendo-O riu e disse: 
+        <lb/>“Mas tu perdoaste-me os meus peccados e o 
+        <lb/>caminho <add place="above">[↑ via]</add> é agradavel.”
+        <lb/>□</p>
+        <p xml:lang="es">Y la mujer dándose vuelta y reconociéndolo rio y dijo: 
+        <lb/>“Pero tú perdonaste mis pecados y el 
+        <lb/>camino <add place="above">[↑ la vía]</add> es agradable".
+        <lb/>□</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E Elle sahiu da cidade.</p>
+        <p xml:lang="es">Y Él salió de la ciudad.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E quando sahira da cidade viu sentado á 
+        <lb/>beira do caminho um jovem que chorava.</p>
+        <p xml:lang="es">Y cuando había salido de la ciudad vio sentado al 
+        <lb/>lado del camino un joven que lloraba.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E Elle avançou e tocando-lhe no cabello 
+        <lb/>comprido, disse-lhe: “Porque choras tu?”</p>
+        <p xml:lang="es">Y Él avanzó y tocándole los largos 
+        <lb/>cabellos, le dijo: “¿Por qué lloras tú?”.</p>
+      </div>
+      <divGen type="alignment"/>
+
+      <div>
+        <p xml:lang="pt">E o jovem erguendo o olhar e reconhecendo-O 
+        <lb/>respondeu “Mas eu em tempos era morto e tu ergueste-me 
+        <lb/>dos d’entre os mortos. Que hei-de eu fazer senão chorar?”</p>
+        <p xml:lang="es">Y el joven alzando la mirada y reconociéndolo 
+        <lb/>respondió: “Pero yo antes estaba muerto y tú me alzaste 
+        <lb/>de entre los muertos. ¿Qué he de hacer yo si no llorar?”.</p>
+      </div>
+      <divGen type="alignment"/>
+
+
+    </body>
+  </text>
+</TEI>
