@@ -19,15 +19,17 @@
          <resp>Visualización digital</resp>
          <name>Estefanía Cardona</name>
         </respStmt>  
-
       </titleStmt>
-        <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
+       
+        <publicationStmt> 
+          <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
+        </publicationStmt>
+
         <sourceDesc>
           <p>Basado en los manuscritos digitalizados y conservados en el sitio web de The Morgan Library and Museum.</p>
         </sourceDesc>
     </fileDesc>
   </teiHeader>
-<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/15"></facsimile>
 
   <text>
     <body>
@@ -155,7 +157,7 @@
         <lb/>pintadas, y cuyos pies <del>estaban</del> estaban calzados con  
         <lb/>perlas. Y tras ella <del>caminando</del> <add place="above">[↑ venía]</add>, despacio como  
         <lb/>un cazador, un joven con una
-        <lb/>capa de dos colores. <del>Pues</del> <add plave="above">[↑ Y]</add> la cara de la  
+        <lb/>capa de dos colores. <del>Pues</del> <add place="above">[↑ Y]</add> la cara de la  
         <lb/>mujer era bella como la de un
         <lb/>ídolo y los ojos del joven brillaban 
         <lb/>de lujuria.</p>
