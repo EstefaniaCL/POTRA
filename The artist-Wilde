@@ -19,15 +19,16 @@
          <resp>Visualización digital</resp>
          <name>Estefanía Cardona</name>
         </respStmt>  
-
       </titleStmt>
+
+      <publicationStmt>
         <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
+      <publicationStmt>
         <sourceDesc>
           <p>Basado en los manuscritos digitalizados y conservados en el sitio web de The Morgan Library and Museum.</p>
         </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/13"></facsimile>
 
   <text>
     <body>
