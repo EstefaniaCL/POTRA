@@ -9,9 +9,11 @@
         <author>
           <rs type="name" key="OW">Oscar Wilde</rs>
         </author>
-        <translator>
-          <rs type="name" key="FP">Fernando Pessoa</rs> 
-        </translator>
+
+       <respStmt>
+          <resp>Traducción al portugués</resp>
+          <name>Fernando Pessoa</name>
+        </respStmt>
 
        <respStmt>
           <resp>Edición y traducción al español</resp>
@@ -24,8 +26,15 @@
         </respStmt>  
 
       </titleStmt>
+
+      <publicationStmt>
         <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
-        
+      </publicationStmt>
+
+       <sourceDesc>
+          <p>Basado en los archivos conservados en la Biblioteca Nacional de Portugal.</p>
+       </sourceDesc>
+
     </fileDesc>
   </teiHeader>
 
