@@ -9,9 +9,11 @@
         <author>
           <rs type="name" key="OW">Oscar Wilde</rs>
         </author>
-        <translator>
-          <rs type="name" key="FP">Fernando Pessoa</rs> 
-        </translator>
+
+        <respStmt>
+          <resp>Traducción al portugués</resp>
+          <name>Fernando Pessoa</name>
+        </respStmt>
 
        <respStmt>
           <resp>Edición y traducción al español</resp>
@@ -24,8 +26,14 @@
         </respStmt>  
 
       </titleStmt>
+      <publicationStmt>   
         <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
-        
+      </publicationStmt> 
+
+      <sourceDesc>
+          <p>Basado en los archivos conservados en la Biblioteca Nacional de Portugal.</p>
+      </sourceDesc>
+
     </fileDesc>
   </teiHeader>
 
@@ -65,7 +73,7 @@
         <lb/>e Me louvavam, tu os expulsaste para as estradas /reaes/
         <lb/>e sobre a Minha terra de que eu te fiz derramaste
         <lb/>sangue inocente".</p>
-        <p xml:lang="es">Y <name type="person">Dios</name> le dijo al Hombre: "Tu vida ha sido mala <add place="above">[↑ fue]</add>,
+        <p xml:lang="es">Y <name type="person">Dios</name> le dijo al Hombre: "Tu vida ha sido <add place="above">[↑ fue]</add> mala,
         <lb/>y mostraste crueldad a los que necesitaban <del>auxilio</del> <add place="above">[↑ socorro]</add> y a los <add place="above">[↑ con quienes]</add>
         <lb/>que pedían auxilio fuiste amargo y duro de corazón.
         <lb/>Los pobres te llamaron y tú no oíste, y tus
@@ -196,7 +204,7 @@
         <p xml:lang="pt">E <name type="person">Deus</name> disse ao Homem: “Por que não te posso eu
         <lb/>mandar para o <name type="place">Inferno</name>, e por que razão?”</p>
         <p xml:lang="es">Y <name type="person">Dios</name> le dijo al hombre: "¿Por qué no te puedo yo
-        <lb/>mandar al <name type="place">Infierno</name>, y por qué motivo?"</p>
+        <lb/>mandar al <name type="place">Infierno</name>, y por qué motivo?".</p>
       </div>
       <divGen type="alignment"/>
 
@@ -236,7 +244,7 @@
         <p xml:lang="pt">E <name type="person">Deus</name> disse ao Homem: “Por que não te poderei
         <lb/>eu mandar para o <name type="place">Céu</name>, e por que razão?”</p>
         <p xml:lang="es">Y <name type="person">Dios</name> le dijo al Hombre: "¿Por qué no te podré
-        <lb/>yo mandar al <name type="place">Cielo</name>, y por qué motivo?"</p>
+        <lb/>yo mandar al <name type="place">Cielo</name>, y por qué motivo?".</p>
       </div>
       <divGen type="alignment"/>
 
