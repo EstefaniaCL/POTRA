@@ -21,13 +21,16 @@
         </respStmt>  
 
       </titleStmt>
+
+      <publicationStmt>
         <publisher>Universidad EAFIT, Pregrado en Literatura, Semillero de Investigación en Poética y Traducción</publisher>
+      </publicationStmt>
+
         <sourceDesc>
           <p>Basado en los manuscritos digitalizados y conservados en el sitio web de The Morgan Library and Museum.</p>
         </sourceDesc>
     </fileDesc>
   </teiHeader>
-<facsimile xml:base="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/6"></facsimile>
 
   <text>
     <body>
@@ -197,7 +200,7 @@
         <lb/>manchaste sus cabellos con <del>perfumes</del> <add place="above">[↑ colores]</add>,
         <lb/>⟨y⟩ <del>colocaste flores aberrantes sobre</del> <add place="above">[↑ pusiste granadas en]</add> sus
         <lb/>manos. Tú manchaste sus
-        <lb/>pies con azafrán y <del>pusiste</del> extendiste
+        <lb/>pies con perfumes y <del>pusiste</del> extendiste
         <lb/>alfombras ante ellos. Con antimonio
         <lb/>manchaste sus párpados y
         <lb/>sus cuerpos untaste
@@ -267,8 +270,8 @@
         <lb/>besaste la boca de la verdad, y
         <lb/>con una lengua falsa <del>respondiste</del>
         <lb/><add place="above">[↑ llamaste]</add> a la s/S\abiduría. El que <del>trajo</del> <add place="above">[↑ vino]</add>
-        <lb/>a ti a <add place="above">[↑ con]</add> agua se fue
-        <lb/>sediento, y a los forajidos que te escondieron
+        <lb/>a ti <add place="above">[↑ con]</add> un regalo se fue
+        <lb/>con las manos vacías, y a aquellos que te escondieron
         <lb/>en sus tiendas <add place="above">[↑ durante la noche]</add>, los traicionaste <add place="above">[↑ antes del amanecer]</add>.
         <lb/>Al enemigo que te perdonó la vida
         <lb/>le <del>asesinaste en</del> <add place="above">[↑ tendiste]</add> una emboscada, y
@@ -312,7 +315,7 @@
         <lb/>to <name type="place">Hell</name>, and for what reason?"</p>
         <p xml:lang="es">Y Dios le dijo al Hombre:  
         <lb/>“¿Cómo que Yo no puedo enviarte
-        <lb/>al <name type="place">infierno</name>?, ¿por qué razón?”</p>
+        <lb/>al <name type="place">infierno</name>?, ¿por qué razón?”.</p>
       </div>
       <divGen type="alignment"/>
 
@@ -362,7 +365,7 @@
         <lb/><name type="place">Heaven</name>, and for what reason?"</p>
         <p xml:lang="es">Y <name type="person">Dios</name> le dijo al Hombre:
         <lb/>“¿Cómo que Yo no puedo enviarte a el  
-        <lb/><name type="place">cielo</name>?, ¿por qué razón?”</p>
+        <lb/><name type="place">cielo</name>?, ¿por qué razón?”.</p>
       </div>
       <divGen type="alignment"/>
 
